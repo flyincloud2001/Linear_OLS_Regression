@@ -1,0 +1,11 @@
+# Linear OLS Regression
+- This is a project for Linear OLS Regression analysis.
+- The goals include but are not limited to:
+  - Understanding how Linear OLS Regression works for stock price trend detection.
+  - Applying Linear OLS Regression models to analyze and predict stock price trends.
+- The project is created and updated simultaneously on a local device and GitHub.
+- Reading the notes section is the main way to understand and replicate this project.
+- The project consists of three parts.
+  - The first part is notes, which organizes the thoughts that come up during the analysis.
+  - The second part is analysis, which includes any code and plots.
+  - The third part is data, which stores the data grabbed from any data sources.
