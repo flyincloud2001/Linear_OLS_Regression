@@ -168,5 +168,14 @@ plt.tight_layout()
 plt.savefig('london_ols_residuals.png', dpi=150)
 plt.show()
 
-basic_statistical_analysis(data, 'distance_to_western_km')
-plot_factor_vs_price(data, 'distance_to_western_km')
+basic_statistical_analysis(data, 'house_age_years')
+plot_factor_vs_price(data, 'house_age_years')
+
+basic_statistical_analysis(data, 'district')
+plot_factor_vs_price(data, 'district')
+
+basic_statistical_analysis(data, 'bedrooms')
+plot_factor_vs_price(data, 'bedrooms')
+
+basic_statistical_analysis(data, 'property_type')
+plot_factor_vs_price(data, 'property_type')
