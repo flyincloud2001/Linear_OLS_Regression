@@ -45,8 +45,8 @@ print(Coded_Char.columns.tolist())
 
 # ── OLS回歸（sklearn版本，用於預測與R平方）────────────────────────────────────
 model = LinearRegression()
-model.fit(X, y)
-pred = model.predict(X)
+model.fit(Coded_Char, y)
+pred = model.predict(Coded_Char)
 
 print('\n=== 模型績效 ===')
 print(f'R平方：{r2_score(y, pred):.4f}')
