@@ -26,14 +26,13 @@ factors = [
     'distance_to_western_km']
 
 # ── 基本統計：分組敘述統計 ────────────────────────────────────────────────────
-def basic_statistical_analysis(factor: str) -> pd.DataFrame:
+def basic_statistical_analysis(data: pd.DataFrame, factor: str) -> pd.DataFrame:
 
     print(f'=== Statistical Price Analysis on {factor} ===')
     result = data.groupby(factor)['price'].agg(['count', 'mean', 'median', 'std']).round(0)
     print(result)
     
     return result
-
 
 # ── One Hot Encoding：將類別變數轉為數值虛擬變數 ──────────────────────────────
 # drop_first=True：避免虛擬變數陷阱（dummy variable trap），
