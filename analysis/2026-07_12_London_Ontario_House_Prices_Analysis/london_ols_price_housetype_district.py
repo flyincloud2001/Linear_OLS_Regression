@@ -100,7 +100,7 @@ def plot_results(model, y):
     axes[2].set_ylabel('殘差')
 
     plt.tight_layout()
-    plt.savefig('')
+    plt.savefig('House_Prices_Analysis.png', dpi=150)
     plt.show()
 
 
