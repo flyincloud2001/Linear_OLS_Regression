@@ -7,7 +7,7 @@ from sklearn.metrics import r2_score
 import statsmodels.api as sm
 
 # ── 參數設定 ──────────────────────────────────────────────────────────────────
-DATA_PATH = 'london_zolo_house_prices.csv'
+DATA_PATH = r'C:\Users\flyin\OneDrive\桌面\新代碼\Linear_OLS_Regression\data\london_zolo_house_prices.csv'
 
 # ── 讀取資料 ──────────────────────────────────────────────────────────────────
 data = pd.read_csv(DATA_PATH)
