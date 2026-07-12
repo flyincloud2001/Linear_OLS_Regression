@@ -69,8 +69,8 @@ def print_coefficient_interpretation(model):
     # 該虛擬變數為 1 時，price 平均會增加或減少多少元
     interpretation_map = {
         'const': '基準類別（House、London North）的平均 price（截距）',
-        'is_townhouse': '',
-        'is_condo': '',
+        'is_townhouse': '相對於 House 基準類別，Townhouse 的 price 平均增加/減少多少元',
+        'is_condo': '相對於 House 基準類別，Condo 的 price 平均增加/減少多少元',
         'is_south': '相對於 London North 基準類別，London South 的 price 平均增加/減少多少元',
         'is_east': '相對於 London North 基準類別，London East 的 price 平均增加/減少多少元',
         'is_west': '相對於 London North 基準類別，London West（原始資料中未細分方位的「London」）的 price 平均增加/減少多少元',
