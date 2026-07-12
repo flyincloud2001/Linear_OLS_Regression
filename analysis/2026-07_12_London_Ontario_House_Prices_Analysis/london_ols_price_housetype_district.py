@@ -17,7 +17,7 @@ data = pd.read_csv(DATA_PATH)
 data['log_price'] = np.log(data['price'])
 
 # ------ Define the Disctionary of House Price Factors -----------------------
-'property_type'
+
 'bedrooms'
 'property_type'
 'house_age_years'
@@ -25,7 +25,11 @@ data['log_price'] = np.log(data['price'])
 
 
 factors = {
-    'district': 'district'
+    'district': 'district',
+    'property_type': 'property_type',
+    'bedrooms': 'bedrooms',
+    
+
 }
 # ── 基本統計：分組敘述統計 ────────────────────────────────────────────────────
 print('=== 各區房價敘述統計 ===')
