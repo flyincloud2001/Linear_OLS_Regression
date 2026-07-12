@@ -35,27 +35,6 @@ def basic_statistical_analysis(factor: string) -> pd.DataFrame:
     
     return result
 
-# ── 圖1：各區房價箱型圖 ────────────────────────────────────────────────────────
-fig, ax = plt.subplots(figsize=(10, 5))
-data.boxplot(column='price', by='district', ax=ax)
-ax.set_title('各區房價分佈')
-ax.set_xlabel('區域')
-ax.set_ylabel('價格')
-plt.suptitle('')
-plt.tight_layout()
-plt.savefig('london_price_boxplot_district.png', dpi=150)
-plt.show()
-
-# ── 圖2：各房型房價箱型圖 ──────────────────────────────────────────────────────
-fig, ax = plt.subplots(figsize=(8, 5))
-data.boxplot(column='price', by='property_type', ax=ax)
-ax.set_title('各房型房價分佈')
-ax.set_xlabel('房型')
-ax.set_ylabel('價格')
-plt.suptitle('')
-plt.tight_layout()
-plt.savefig('london_price_boxplot_type.png', dpi=150)
-plt.show()
 
 # ── One Hot Encoding：將類別變數轉為數值虛擬變數 ──────────────────────────────
 # drop_first=True：避免虛擬變數陷阱（dummy variable trap），
