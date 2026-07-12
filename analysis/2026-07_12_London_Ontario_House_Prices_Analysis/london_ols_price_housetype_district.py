@@ -100,6 +100,7 @@ def plot_results(model, y):
     axes[2].set_ylabel('殘差')
 
     plt.tight_layout()
+    plt.savefig('')
     plt.show()
 
 
