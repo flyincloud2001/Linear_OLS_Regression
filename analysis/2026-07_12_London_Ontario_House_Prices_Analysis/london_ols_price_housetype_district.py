@@ -1,102 +1,111 @@
-# ── Import Modules ──────────────────────────────────────────────────────────────────
 import pandas as pd
+import numpy as np
 import statsmodels.api as sm
+import matplotlib.pyplot as plt
 
-# ── Parameters Setup ──────────────────────────────────────────────────────────────────
+plt.rcParams['font.family'] = 'Microsoft JhengHei'  # 若沒有這個字體請自行更換成系統中支援中文的字體
+
+# 資料檔案路徑
 FILE_PATH = r'C:\Users\flyin\OneDrive\桌面\新代碼\Linear_OLS_Regression\data\london_zolo_house_prices.csv'
 
+# 應變數欄位名稱
+TARGET_COL = 'price'
 
-# ── Read Data and Preprocess Data ──────────────────────────────────────────────────────────
-def load_data(path):
-    # 讀取原始 CSV 檔案
+# 類別型影響因素設定：欄位名稱對應到基準類別
+# 基準類別不會產生虛擬變數，效果會反映在截距 const 上
+# 未來要新增類別型因素（例如學區、屋齡分級等），只需要在這裡加一組 欄位名稱: 基準類別
+CATEGORICAL_FEATURES = {
+    'property_type': 'House',
+    'district': 'London North',
+}
+
+# 數值型影響因素清單，目前沒有數值型變數
+# 未來爬蟲取得的連續型資料（例如坪數、屋齡年數、距離市中心距離等）直接加進這個清單即可
+NUMERIC_FEATURES = []
+
+
+# 讀取並清理資料
+def load_data(path, categorical_features, numeric_features, target_col):
     raw = pd.read_csv(path)
-    # 只保留分析所需欄位：price、property_type、district
-    data = raw[['price', 'property_type', 'district']].copy()
-    # 刪除缺失值，避免影響迴歸結果
+    columns_needed = [target_col] + list(categorical_features.keys()) + numeric_features
+    data = raw[columns_needed].copy()
     data.dropna(inplace=True)
     return data
 
 
-# ── Dummy Variable Encoding：房型 ────────────────────────────────────────────────────────
-def encode_property_type(data):
-    # property_type 只產生 is_townhouse 與 is_condo 兩欄，House 為基準類別（不建立 is_house）
-    #   House     -> (is_townhouse=0, is_condo=0)　← 基準類別，效果反映在截距上
-    #   Townhouse -> (is_townhouse=1, is_condo=0)
-    #   Condo     -> (is_townhouse=0, is_condo=1)
-    data = data.copy()
-    data['is_townhouse'] = (data['property_type'] == 'Townhouse').astype(int)
-    data['is_condo'] = (data['property_type'] == 'Condo').astype(int)
-    return data
+# 依照 CATEGORICAL_FEATURES 與 NUMERIC_FEATURES 自動組出設計矩陣
+def build_design_matrix(data, categorical_features, numeric_features):
+    dummy_frames = []
+    for col, base_category in categorical_features.items():
+        dummies = pd.get_dummies(data[col], prefix=col).astype(int)
+        base_col = f'{col}_{base_category}'
+        if base_col in dummies.columns:
+            dummies = dummies.drop(columns=[base_col])
+        dummy_frames.append(dummies)
+    X = pd.concat(dummy_frames, axis=1)
+    if numeric_features:
+        X = pd.concat([X, data[numeric_features]], axis=1)
+    return X
 
 
-# ── Dummy Variable Encoding：地區 ────────────────────────────────────────────────────────
-def encode_district(data):
-    # district 只產生 is_south、is_east、is_west 三欄，London North 為基準類別（不建立 is_north）。
-    # 這是標準的 dummy variable 編碼：類別數為 n 時，只需要 n-1 欄虛擬變數，
-    # 因為第 n 個類別的資訊可以由「其餘欄位皆為 0」完整表示；
-    # 若連基準類別也建立虛擬變數，會與截距項（常數項）產生完美線性重合（dummy variable trap），
-    # 導致設計矩陣不滿秩、OLS 無法唯一求解係數。
-    #
-    # 資料備註：原始 district 欄位實際只有「London North」「London South」「London East」
-    # 與未細分方位的「London」四種值，並沒有明確標示為「London West」的資料。
-    # 依需求仍要產生四個地區類別（North/South/East/West）對應的 3 個 dummy 欄位，
-    # 因此將這 10 筆僅標示為「London」（無方位細分）的資料歸入第四類，以 is_west 代表。
-    data = data.copy()
-    data['is_south'] = (data['district'] == 'London South').astype(int)
-    data['is_east'] = (data['district'] == 'London East').astype(int)
-    data['is_west'] = (data['district'] == 'London').astype(int)
-    return data
-
-
-# ── 建立並訓練 OLS 模型 ──────────────────────────────────────────────────────────────────
-def fit_ols_model(data):
-    feature_columns = ['is_townhouse', 'is_condo', 'is_south', 'is_east', 'is_west']
-
-    # 自變數：房型與地區的 dummy 欄位
-    X = data[feature_columns]
-    # 加上常數項（截距），代表基準類別（House、London North）的平均 price
+# 建立並訓練 OLS 模型
+def fit_ols(data, target_col, categorical_features, numeric_features):
+    X = build_design_matrix(data, categorical_features, numeric_features)
     X = sm.add_constant(X)
-    # 應變數：price
-    y = data['price']
-
+    y = data[target_col]
     model = sm.OLS(y, X).fit()
-    return model
+    return model, X, y
 
 
-# ── 印出係數白話解讀 ────────────────────────────────────────────────────────────────────
-def print_coefficient_interpretation(model):
-    # 每個係數對應的白話意義說明：相對於基準類別（House、London North），
-    # 該虛擬變數為 1 時，price 平均會增加或減少多少元
-    interpretation_map = {
-        'const': '基準類別（House、London North）的平均 price（截距）',
-        'is_townhouse': '相對於 House 基準類別，Townhouse 的 price 平均增加/減少多少元',
-        'is_condo': '相對於 House 基準類別，Condo 的 price 平均增加/減少多少元',
-        'is_south': '相對於 London North 基準類別，London South 的 price 平均增加/減少多少元',
-        'is_east': '相對於 London North 基準類別，London East 的 price 平均增加/減少多少元',
-        'is_west': '相對於 London North 基準類別，London West（原始資料中未細分方位的「London」）的 price 平均增加/減少多少元',
-    }
-
-    print('===== 係數白話解讀 =====')
-    for variable_name, meaning in interpretation_map.items():
-        coefficient = model.params[variable_name]
-        p_value = model.pvalues[variable_name]
-        significance = '（統計顯著，p < 0.05）' if p_value < 0.05 else '（不顯著，p >= 0.05）'
-        print(f'{variable_name:<14} 係數 = {coefficient:>14,.2f}　{significance}')
-        print(f'{"":<14} 白話意義：{meaning}')
+# 印出精簡統計表：coef、std err、p value、R squared
+def print_summary_table(model):
+    table = pd.DataFrame({
+        'coef': model.params,
+        'std err': model.bse,
+        'p value': model.pvalues,
+    })
+    print(table.round(3))
+    print(f'R squared = {model.rsquared:.4f}')
+    print(f'Adjusted R squared = {model.rsquared_adj:.4f}')
 
 
-# ── Main ────────────────────────────────────────────────────────────────────────────────
-data = load_data(FILE_PATH)
-data = encode_property_type(data)
-data = encode_district(data)
+# 視覺化分析：係數與標準誤、實際vs預測、殘差圖
+def plot_results(model, y):
+    fitted = model.fittedvalues
+    resid = model.resid
 
-model = fit_ols_model(data)
+    fig, axes = plt.subplots(1, 3, figsize=(18, 5))
 
-print('===== OLS 模型完整 Summary =====')
-print(model.summary())
+    # 係數與標準誤：長條代表 coef，誤差線代表 std err
+    coef = model.params.drop('const')
+    err = model.bse.drop('const')
+    axes[0].barh(coef.index, coef.values, xerr=err.values, color='steelblue')
+    axes[0].axvline(0, color='black', linewidth=0.8)
+    axes[0].set_title('係數與標準誤')
+    axes[0].set_xlabel('對 price 的影響（元）')
 
-print_coefficient_interpretation(model)
+    # 實際值 vs 預測值：越貼近對角線代表模型解釋力越好
+    axes[1].scatter(y, fitted, alpha=0.5, color='darkorange')
+    lims = [min(y.min(), fitted.min()), max(y.max(), fitted.max())]
+    axes[1].plot(lims, lims, color='black', linewidth=0.8)
+    axes[1].set_title(f'實際值 vs 預測值 (R平方 = {model.rsquared:.3f})')
+    axes[1].set_xlabel('實際 price')
+    axes[1].set_ylabel('預測 price')
 
-print('===== 整體模型解釋力 =====')
-print(f'R-squared = {model.rsquared:.4f}')
-print(f'Adjusted R-squared = {model.rsquared_adj:.4f}')
+    # 殘差圖：檢查殘差是否隨機散布，若有明顯型態代表模型可能遺漏重要變數
+    axes[2].scatter(fitted, resid, alpha=0.5, color='seagreen')
+    axes[2].axhline(0, color='black', linewidth=0.8)
+    axes[2].set_title('殘差圖')
+    axes[2].set_xlabel('預測 price')
+    axes[2].set_ylabel('殘差')
+
+    plt.tight_layout()
+    plt.show()
+
+
+# 主流程
+data = load_data(FILE_PATH, CATEGORICAL_FEATURES, NUMERIC_FEATURES, TARGET_COL)
+model, X, y = fit_ols(data, TARGET_COL, CATEGORICAL_FEATURES, NUMERIC_FEATURES)
+
+print_summary_table(model)
+plot_results(model, y)
