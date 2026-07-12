@@ -30,8 +30,7 @@ factors = {
     'bedrooms': 'bedrooms',
     'property_type': 'property_type',
     'house_age_years': 'house_age_years',
-    
-
+    'distance_to_western_km': 'distance_to_western_km'
 }
 # ── 基本統計：分組敘述統計 ────────────────────────────────────────────────────
 print('=== 各區房價敘述統計 ===')
