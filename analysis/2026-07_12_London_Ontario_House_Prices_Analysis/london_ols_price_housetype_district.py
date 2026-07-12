@@ -32,11 +32,7 @@ def basic_statistical_analysis(factor: string) -> pd.DataFrame:
     print(f'=== Statistical Price Analysis on {factor} ===')
     print(data.groupby(factor)['price'].agg(['count', 'mean', 'median', 'std']).round(0))
 
-print('=== 各區房價敘述統計 ===')
-print(data.groupby('district')['price'].agg(['count', 'mean', 'median', 'std']).round(0))
 
-print('\n=== 各房型房價敘述統計 ===')
-print(data.groupby('property_type')['price'].agg(['count', 'mean', 'median', 'std']).round(0))
 
 # ── 圖1：各區房價箱型圖 ────────────────────────────────────────────────────────
 fig, ax = plt.subplots(figsize=(10, 5))
