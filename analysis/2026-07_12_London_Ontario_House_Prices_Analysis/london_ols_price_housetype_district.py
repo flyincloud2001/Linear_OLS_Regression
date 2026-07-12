@@ -26,7 +26,7 @@ factors = [
     'distance_to_western_km']
 
 # ── 基本統計：分組敘述統計 ────────────────────────────────────────────────────
-def basic_statistical_analysis(factor: string) -> pd.DataFrame:
+def basic_statistical_analysis(factor: str) -> pd.DataFrame:
 
     print(f'=== Statistical Price Analysis on {factor} ===')
     result = data.groupby(factor)['price'].agg(['count', 'mean', 'median', 'std']).round(0)
