@@ -27,7 +27,7 @@ factors = {
 }
 
 # ── 基本統計：分組敘述統計 ────────────────────────────────────────────────────
-def 
+def basic_analysis_on_
 print('=== 各區房價敘述統計 ===')
 print(data.groupby('district')['price'].agg(['count', 'mean', 'median', 'std']).round(0))
 
