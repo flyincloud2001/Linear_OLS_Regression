@@ -57,8 +57,8 @@ for name, coef in zip(Coded_Char.columns, model.coef_):
 
 # ── OLS回歸（statsmodels版本，用於統計顯著性檢定）─────────────────────────────
 # t檢定與p值可判斷該類別對房價的影響是否統計顯著（一般以p<0.05為門檻）
-X_sm = sm.add_constant(X.astype(float))
-sm_model = sm.OLS(y, X_sm).fit()
+Coded_Char_sm = sm.add_constant(Coded_Char.astype(float))
+sm_model = sm.OLS(y, Coded_Char_sm).fit()
 print('\n=== 統計顯著性檢定（statsmodels OLS摘要）===')
 print(sm_model.summary())
 
