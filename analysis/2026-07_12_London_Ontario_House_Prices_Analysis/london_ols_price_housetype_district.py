@@ -30,10 +30,10 @@ factors = {
 def basic_statistical_analysis(factor: string) -> pd.DataFrame:
 
     print(f'=== Statistical Price Analysis on {factor} ===')
+    result = data.groupby(factor)['price'].agg(['count', 'mean', 'median', 'std']).round(0)
+    print(result)
     
-    print(data.groupby(factor)['price'].agg(['count', 'mean', 'median', 'std']).round(0))
-    
-    return 
+    return result
 
 # ── 圖1：各區房價箱型圖 ────────────────────────────────────────────────────────
 fig, ax = plt.subplots(figsize=(10, 5))
