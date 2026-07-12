@@ -1,501 +1,501 @@
-﻿address,district,neighbourhood,property_type,price,listing_url
-"1272 Savannah Drive, London North, ON",London North,North C,Townhouse,474999,https://www.zolo.ca/london-north-real-estate/1272-savannah-drive
-"801-330 Ridout Street N, London East, ON",London East,East K,Condo,414900,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/801
-"606 Central Avenue, London East, ON",London East,East F,House,589900,https://www.zolo.ca/london-east-real-estate/606-central-avenue
-"21-861 Shelborne Street, London South, ON",London South,South J,Townhouse,524900,https://www.zolo.ca/london-south-real-estate/861-shelborne-street/21
-"1402 Hastings Drive, London North, ON",London North,North G,House,739999,https://www.zolo.ca/london-north-real-estate/1402-hastings-drive
-"18-518 Blue Jay Drive, London North, ON",London North,North B,Townhouse,749900,https://www.zolo.ca/london-north-real-estate/518-blue-jay-drive/18
-"210-1560 Upper West Avenue, London South, ON",London South,South B,Condo,569026,https://www.zolo.ca/london-south-real-estate/1560-upper-west-avenue/210
-"204-1975 Fountain Grass Drive, London South, ON",London South,South B,Condo,644248,https://www.zolo.ca/london-south-real-estate/1975-fountain-grass-drive/204
-"95 Gerald Crescent, London South, ON",London South,South J,House,624900,https://www.zolo.ca/london-south-real-estate/95-gerald-crescent
-"205-460 Wellington Street, London East, ON",London East,East F,Condo,325000,https://www.zolo.ca/london-east-real-estate/460-wellington-street/205
-"487 Jeffreybrook Close, London North, ON",London North,North B,House,849900,https://www.zolo.ca/london-north-real-estate/487-jeffreybrook-close
-"204-240 Villagewalk Boulevard, London North, ON",London North,North R,Condo,799900,https://www.zolo.ca/london-north-real-estate/240-villagewalk-boulevard/204
-"159 Montebello Drive, London East, ON",London East,East O,House,779999,https://www.zolo.ca/london-east-real-estate/159-montebello-drive
-"203-1030 Coronation Drive, London North, ON",London North,North I,Condo,449900,https://www.zolo.ca/london-north-real-estate/1030-coronation-drive/203
-"17-1337 Commissioners Road W, London South, ON",London South,South B,Townhouse,499900,https://www.zolo.ca/london-south-real-estate/1337-commissioners-road-west/17
-"103 Mcclary Avenue, London South, ON",London South,South F,Townhouse,499900,https://www.zolo.ca/london-south-real-estate/103-mcclary-avenue
-"1418 Helena Montague Avenue, London South, ON",London South,South B,House,794900,https://www.zolo.ca/london-south-real-estate/1418-helena-montague-avenue
-"203-549 Ridout Street N, London East, ON",London East,East F,Condo,299900,https://www.zolo.ca/london-east-real-estate/549-ridout-street-north/203
-"452 Merlin Street, London East, ON",London East,East H,House,529900,https://www.zolo.ca/london-east-real-estate/452-merlin-street
-"55 Wentworth Court, London, ON",London,South O,House,699900,https://www.zolo.ca/london-real-estate/55-wentworth-court
-"16-433 Hyde Park Road, London North, ON",London North,North P,Townhouse,529900,https://www.zolo.ca/london-north-real-estate/433-hyde-park-road/16
-"114-1447 Huron Street, London East, ON",London East,East D,Condo,267995,https://www.zolo.ca/london-east-real-estate/1447-huron-street/114
-"313-1560 Upper West Avenue, London South, ON",London South,South B,Condo,600000,https://www.zolo.ca/london-south-real-estate/1560-upper-west-avenue/313
-"26-770 Fanshawe Park Road E, London North, ON",London North,North C,Townhouse,439900,https://www.zolo.ca/london-north-real-estate/770-fanshawe-park-road-east/26
-"22 Rosamond Crescent, London South, ON",London South,South X,Townhouse,529900,https://www.zolo.ca/london-south-real-estate/22-rosamond-crescent
-"235 Hamilton Road, London, ON",London,East L,Townhouse,769900,https://www.zolo.ca/london-real-estate/235-hamilton-road
-"1766 Culver Drive, London East, ON",London East,East H,Townhouse,399000,https://www.zolo.ca/london-east-real-estate/1766-culver-drive
-"6-140 Conway Drive, London South, ON",London South,South X,Condo,244900,https://www.zolo.ca/london-south-real-estate/140-conway-drive/6
-"873 Southdale Road E, London South, ON",London South,South Y,Townhouse,334900,https://www.zolo.ca/london-south-real-estate/873-southdale-road-east
-"302-1106 Jalna Boulevard, London South, ON",London South,South X,Condo,199900,https://www.zolo.ca/london-south-real-estate/1106-jalna-boulevard/302
-"803-860 Commissioners Road E, London South, ON",London South,South H,Condo,269900,https://www.zolo.ca/london-south-real-estate/860-commissioners-road-east/803
-"277 Blackacres Boulevard, London North, ON",London North,North F,House,675000,https://www.zolo.ca/london-north-real-estate/277-blackacres-boulevard
-"3-352 Ridout Street S, London South, ON",London South,South G,Townhouse,700000,https://www.zolo.ca/london-south-real-estate/352-ridout-street-south/3
-"20-2089 Beaverbrook Avenue, London North, ON",London North,North M,Townhouse,499900,https://www.zolo.ca/london-north-real-estate/2089-beaverbrook-avenue/20
-"1-6990 Clayton Walk, London South, ON",London South,South V,House,899900,https://www.zolo.ca/london-south-real-estate/6990-clayton-walk/1
-"213 Hawthorne Road, London North, ON",London North,North E,House,769900,https://www.zolo.ca/london-north-real-estate/213-hawthorne-road
-"21-190 Fleming Drive, London East, ON",London East,East D,Townhouse,349900,https://www.zolo.ca/london-east-real-estate/190-fleming-drive/21
-"754 Lorne Avenue, London East, ON",London East,East G,House,488800,https://www.zolo.ca/london-east-real-estate/754-lorne-avenue
-"23 Barrett Crescent, London South, ON",London South,South Y,House,599100,https://www.zolo.ca/london-south-real-estate/23-barrett-crescent
-"1366 Kains Woods Terrace, London South, ON",London South,South A,House,969900,https://www.zolo.ca/london-south-real-estate/1366-kains-woods-terrace
-"653 Steeplechase Drive, London South, ON",London South,South N,House,699000,https://www.zolo.ca/london-south-real-estate/653-steeplechase-drive
-"839 Guildwood Boulevard, London North, ON",London North,North M,House,599000,https://www.zolo.ca/london-north-real-estate/839-guildwood-boulevard
-"764 Banyan Lane, London North, ON",London North,North E,Townhouse,529900,https://www.zolo.ca/london-north-real-estate/764-banyan-lane
-"2394 Wickerson Road, London South, ON",London South,South K,House,799900,https://www.zolo.ca/london-south-real-estate/2394-wickerson-road
-"1626 Leonard Street, London East, ON",London East,East H,House,499900,https://www.zolo.ca/london-east-real-estate/1626-leonard-street
-"20-760 Berkshire Drive, London South, ON",London South,South N,Townhouse,340000,https://www.zolo.ca/london-south-real-estate/760-berkshire-drive/20
-"3074 Turner Crescent, London South, ON",London South,South U,House,799900,https://www.zolo.ca/london-south-real-estate/3074-turner-crescent
-"5-1443 Commissioners Road W, London South, ON",London South,South B,Townhouse,624900,https://www.zolo.ca/london-south-real-estate/1443-commissioners-road-west/5
-"1506-1105 Jalna Boulevard, London South, ON",London South,South X,Condo,216995,https://www.zolo.ca/london-south-real-estate/1105-jalna-boulevard/1506
-"1287 Nicole Avenue, London North, ON",London North,North C,House,729900,https://www.zolo.ca/london-north-real-estate/1287-nicole-avenue
-"400-1705 Fiddlehead Place, London North, ON",London North,North R,Condo,499900,https://www.zolo.ca/london-north-real-estate/1705-fiddlehead-place/400
-"872 Stedwell Street, London East, ON",London East,East L,House,499900,https://www.zolo.ca/london-east-real-estate/872-stedwell-street
-"17-340 Ambleside Drive, London North, ON",London North,North A,Townhouse,499900,https://www.zolo.ca/london-north-real-estate/340-ambleside-drive/17
-"307-1975 Fountain Grass Drive, London South, ON",London South,South B,Condo,599000,https://www.zolo.ca/london-south-real-estate/1975-fountain-grass-drive/307
-"62-801 Osgoode Drive, London South, ON",London South,South Y,Townhouse,424988,https://www.zolo.ca/london-south-real-estate/801-osgoode-drive/62
-"37-1294 Byron Baseline Road, London South, ON",London South,South K,Townhouse,399000,https://www.zolo.ca/london-south-real-estate/1294-byron-baseline-road/37
-"53 Madeira Drive, London East, ON",London East,East D,House,449000,https://www.zolo.ca/london-east-real-estate/53-madeira-drive
-"32-499 Sophia Crescent, London North, ON",London North,North I,Townhouse,515900,https://www.zolo.ca/london-north-real-estate/499-sophia-crescent/32
-"108-1 Jacksway Crescent, London North, ON",London North,North G,Condo,274000,https://www.zolo.ca/london-north-real-estate/1-jacksway-crescent/108
-"114-1775 Culver Drive, London East, ON",London East,East H,Townhouse,324900,https://www.zolo.ca/london-east-real-estate/1775-culver-drive/114
-"109-729 Deveron Crescent, London South, ON",London South,South T,Condo,269900,https://www.zolo.ca/london-south-real-estate/729-deveron-crescent/109
-"21-1110 Meadowlark Ridge, London South, ON",London South,South U,Townhouse,499900,https://www.zolo.ca/london-south-real-estate/1110-meadowlark-ridge/21
-"1207-155 Kent Street, London East, ON",London East,East F,Condo,299900,https://www.zolo.ca/london-east-real-estate/155-kent-street/1207
-"87-320 Ambleside Drive, London North, ON",London North,North A,Townhouse,569000,https://www.zolo.ca/london-north-real-estate/320-ambleside-drive/87
-"944 Collins Drive, London South, ON",London South,South L,House,1229900,https://www.zolo.ca/london-south-real-estate/944-collins-drive
-"9-703 Windermere Road, London North, ON",London North,North G,Townhouse,509000,https://www.zolo.ca/london-north-real-estate/703-windermere-road/9
-"2304-330 Ridout Street N, London East, ON",London East,East K,Condo,599900,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/2304
-"322 Mornington Avenue, London East, ON",London East,East G,House,374900,https://www.zolo.ca/london-east-real-estate/322-mornington-avenue
-"39 Shepherd Avenue, London East, ON",London East,East H,House,649900,https://www.zolo.ca/london-east-real-estate/39-shepherd-avenue
-"12 Daybreak Drive, London East, ON",London East,East I,Townhouse,799999,https://www.zolo.ca/london-east-real-estate/12-daybreak-drive
-"264 Ridgewood Crescent, London South, ON",London South,South D,House,699000,https://www.zolo.ca/london-south-real-estate/264-ridgewood-crescent
-"204-693 Windermere Road, London North, ON",London North,North G,Condo,399900,https://www.zolo.ca/london-north-real-estate/693-windermere-road/204
-"202 Sydenham Street, London East, ON",London East,East B,Townhouse,650000,https://www.zolo.ca/london-east-real-estate/202-sydenham-street
-"1620 Farmbrook Road, London East, ON",London East,East P,House,699000,https://www.zolo.ca/london-east-real-estate/1620-farmbrook-road
-"262 Hesselman Crescent, London South, ON",London South,South U,House,799900,https://www.zolo.ca/london-south-real-estate/262-hesselman-crescent
-"340 Riverside Drive, London North, ON",London North,North N,House,649900,https://www.zolo.ca/london-north-real-estate/340-riverside-drive
-"372 Manhattan Drive, London South, ON",London South,South K,House,1599000,https://www.zolo.ca/london-south-real-estate/372-manhattan-drive
-"4255 Liberty Crossing, London South, ON",London South,South V,House,699000,https://www.zolo.ca/london-south-real-estate/4255-liberty-crossing
-"318 Admiral Drive, London East, ON",London East,East A,Townhouse,499000,https://www.zolo.ca/london-east-real-estate/318-admiral-drive
-"56 Classic Crescent, London East, ON",London East,East P,House,625000,https://www.zolo.ca/london-east-real-estate/56-classic-crescent
-"602-695 Richmond Street, London East, ON",London East,East F,Condo,359900,https://www.zolo.ca/london-east-real-estate/695-richmond-street/602
-"758 Banyan Lane, London North, ON",London North,North E,Townhouse,534900,https://www.zolo.ca/london-north-real-estate/758-banyan-lane
-"23-65 Fiddlers Green Road, London North, ON",London North,North P,Townhouse,449900,https://www.zolo.ca/london-north-real-estate/65-fiddlers-green-road/23
-"75 Huxley Street, London South, ON",London South,South E,Condo,277777,https://www.zolo.ca/london-south-real-estate/75-huxley-street
-"1105-76 Base Line Road W, London South, ON",London South,South E,Condo,244900,https://www.zolo.ca/london-south-real-estate/76-base-line-road-west/1105
-"105-333 Commissioners Road W, London South, ON",London South,South D,Condo,234900,https://www.zolo.ca/london-south-real-estate/333-commissioners-road-west/105
-"2590 Tokala Trail, London North, ON",London North,North S,House,849000,https://www.zolo.ca/london-north-real-estate/2590-tokala-trail
-"2-131 Bonaventure Drive, London East, ON",London East,East I,Townhouse,379900,https://www.zolo.ca/london-east-real-estate/131-bonaventure-drive/2
-"2701-505 Talbot Street, London East, ON",London East,East F,Condo,1100000,https://www.zolo.ca/london-east-real-estate/505-talbot-street/2701
-"2169 Jack Nash Drive, London South, ON",London South,South A,House,829900,https://www.zolo.ca/london-south-real-estate/2169-jack-nash-drive
-"212-563 Mornington Avenue, London East, ON",London East,East G,Condo,218900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/212
-"550 Elizabeth Street, London East, ON",London East,East G,House,485000,https://www.zolo.ca/london-east-real-estate/550-elizabeth-street
-"304-1100 Jalna Boulevard, London, ON",London,South X,Condo,219900,https://www.zolo.ca/london-real-estate/1100-jalna-boulevard/304
-"827 Quebec Street, London East, ON",London East,East G,House,459900,https://www.zolo.ca/london-east-real-estate/827-quebec-street
-"872 Lovett Street, London East, ON",London East,East L,House,424900,https://www.zolo.ca/london-east-real-estate/872-lovett-street
-"719 Elias Street, London East, ON",London East,East G,Townhouse,375000,https://www.zolo.ca/london-east-real-estate/719-elias-street
-"29 Julia Court, London East, ON",London East,East I,Townhouse,560000,https://www.zolo.ca/london-east-real-estate/29-julia-court
-"610-583 Mornington Avenue, London East, ON",London East,East G,Condo,249000,https://www.zolo.ca/london-east-real-estate/583-mornington-avenue/610
-"312-931 Wonderland Road S, London South, ON",London South,South M,Condo,219900,https://www.zolo.ca/london-south-real-estate/931-wonderland-road-south/312
-"112-275 Callaway Road, London North, ON",London North,North R,Townhouse,629000,https://www.zolo.ca/london-north-real-estate/275-callaway-road/112
-"1367 Reardon Boulevard, London South, ON",London South,South U,Townhouse,564900,https://www.zolo.ca/london-south-real-estate/1367-reardon-boulevard
-"132 Monmore Road, London North, ON",London North,North F,Townhouse,389900,https://www.zolo.ca/london-north-real-estate/132-monmore-road
-"55-70 Chapman Court, London North, ON",London North,North I,Townhouse,399900,https://www.zolo.ca/london-north-real-estate/70-chapman-court/55
-"4-135 Belmont Drive, London South, ON",London South,South O,Townhouse,379900,https://www.zolo.ca/london-south-real-estate/135-belmont-drive/4
-"2608 Holbrook Drive, London South, ON",London South,South U,House,879900,https://www.zolo.ca/london-south-real-estate/2608-holbrook-drive
-"802-250 Pall Mall Street, London East, ON",London East,East F,Condo,430500,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/802
-"879 Garibaldi Avenue, London North, ON",London North,North B,House,729900,https://www.zolo.ca/london-north-real-estate/879-garibaldi-avenue
-"903-549 Ridout Street N, London East, ON",London East,East F,Condo,354900,https://www.zolo.ca/london-east-real-estate/549-ridout-street-north/903
-"709-505 Talbot Street, London East, ON",London East,East F,Condo,599900,https://www.zolo.ca/london-east-real-estate/505-talbot-street/709
-"56-595 Third Street, London East, ON",London East,East H,Townhouse,299900,https://www.zolo.ca/london-east-real-estate/595-third-street/56
-"6-484 Third Street, London East, ON",London East,East H,Townhouse,379900,https://www.zolo.ca/london-east-real-estate/484-third-street/6
-"4-2070 Meadowgate Boulevard, London South, ON",London South,South U,Townhouse,489900,https://www.zolo.ca/london-south-real-estate/2070-meadowgate-boulevard/4
-"315-1510 Richmond Street, London North, ON",London North,North G,Condo,399000,https://www.zolo.ca/london-north-real-estate/1510-richmond-street/315
-"3-410 Ambleside Drive, London North, ON",London North,North A,Townhouse,589000,https://www.zolo.ca/london-north-real-estate/410-ambleside-drive/3
-"368 Wharncliffe Road S, London South, ON",London South,South F,Townhouse,579900,https://www.zolo.ca/london-south-real-estate/368-wharncliffe-road-south
-"405-77 Baseline Road, London South, ON",London South,South E,Condo,219900,https://www.zolo.ca/london-south-real-estate/77-baseline-road/405
-"43 Compton Crescent, London South, ON",London South,South R,House,799900,https://www.zolo.ca/london-south-real-estate/43-compton-crescent
-"235 Byers Street, London South, ON",London South,South W,House,859999,https://www.zolo.ca/london-south-real-estate/235-byers-street
-"309-693 Windermere Road, London North, ON",London North,North G,Condo,464900,https://www.zolo.ca/london-north-real-estate/693-windermere-road/309
-"709-1255 Commissioners Road W, London South, ON",London South,South B,Condo,275000,https://www.zolo.ca/london-south-real-estate/1255-commissioners-road-west/709
-"403-135 Baseline Road W, London South, ON",London South,South D,Condo,269900,https://www.zolo.ca/london-south-real-estate/135-baseline-road-west/403
-"1301 Michael Circle, London East, ON",London East,East D,Townhouse,485000,https://www.zolo.ca/london-east-real-estate/1301-michael-circle
-"371 Flanders Row, London East, ON",London East,East C,House,399900,https://www.zolo.ca/london-east-real-estate/371-flanders-row
-"304-695 Richmond Street, London East, ON",London East,East F,Condo,339900,https://www.zolo.ca/london-east-real-estate/695-richmond-street/304
-"78-141 Condor Court, London East, ON",London East,East P,Townhouse,417000,https://www.zolo.ca/london-east-real-estate/141-condor-court/78
-"809-127 Belmont Drive, London South, ON",London South,South O,Condo,349900,https://www.zolo.ca/london-south-real-estate/127-belmont-drive/809
-"102-735 Deveron Crescent, London South, ON",London South,South T,Condo,265000,https://www.zolo.ca/london-south-real-estate/735-deveron-crescent/102
-"7006 Diane Crescent, London South, ON",London South,South V,House,949900,https://www.zolo.ca/london-south-real-estate/7006-diane-crescent
-"109-320 Sugarcreek Trail, London North, ON",London North,North N,Condo,374900,https://www.zolo.ca/london-north-real-estate/320-sugarcreek-trail/109
-"1515-45 Pond Mills Road, London South, ON",London South,South J,Condo,279900,https://www.zolo.ca/london-south-real-estate/45-pond-mills-road/1515
-"205-435 Colborne Street, London East, ON",London East,East F,Condo,375000,https://www.zolo.ca/london-east-real-estate/435-colborne-street/205
-"904 Dame Street, London East, ON",London East,East L,House,409900,https://www.zolo.ca/london-east-real-estate/904-dame-street
-"501-353 Commissioners Road W, London South, ON",London South,South D,Condo,314999,https://www.zolo.ca/london-south-real-estate/353-commissioners-road-west/501
-"51 Cherish Court, London South, ON",London South,South C,House,799900,https://www.zolo.ca/london-south-real-estate/51-cherish-court
-"28 Beattie Avenue, London East, ON",London East,East N,Townhouse,539900,https://www.zolo.ca/london-east-real-estate/28-beattie-avenue
-"116-1775 Culver Drive, London East, ON",London East,East H,Townhouse,315000,https://www.zolo.ca/london-east-real-estate/1775-culver-drive/116
-"309-729 Deveron Crescent, London South, ON",London South,South T,Condo,239900,https://www.zolo.ca/london-south-real-estate/729-deveron-crescent/309
-"302-563 Mornington Avenue, London East, ON",London East,East G,Condo,255000,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/302
-"1406-505 Talbot Street, London East, ON",London East,East F,Condo,579900,https://www.zolo.ca/london-east-real-estate/505-talbot-street/1406
-"713 Thistlewood Drive, London North, ON",London North,North C,House,749900,https://www.zolo.ca/london-north-real-estate/713-thistlewood-drive
-"1001 Oxford Street E, London East, ON",London East,East G,Townhouse,409000,https://www.zolo.ca/london-east-real-estate/1001-oxford-street-east
-"282 Fleming Drive, London East, ON",London East,East D,House,469900,https://www.zolo.ca/london-east-real-estate/282-fleming-drive
-"67 Breckenridge Crescent, London South, ON",London South,South Y,Townhouse,469900,https://www.zolo.ca/london-south-real-estate/67-breckenridge-crescent
-"62-1220 Royal York Road, London North, ON",London North,North L,Townhouse,439900,https://www.zolo.ca/london-north-real-estate/1220-royal-york-road/62
-"608-1600 Adelaide Street N, London North, ON",London North,North C,Condo,275000,https://www.zolo.ca/london-north-real-estate/1600-adelaide-street-north/608
-"814-480 Callaway Road, London North, ON",London North,North R,Condo,799000,https://www.zolo.ca/london-north-real-estate/480-callaway-road/814
-"4079 Campbell Street, London South, ON",London South,South V,House,949000,https://www.zolo.ca/london-south-real-estate/4079-campbell-street
-"1403-860 Commissioners Road E, London South, ON",London South,South H,Condo,299900,https://www.zolo.ca/london-south-real-estate/860-commissioners-road-east/1403
-"3128 Turner Crescent, London South, ON",London South,South U,House,939999,https://www.zolo.ca/london-south-real-estate/3128-turner-crescent
-"151 St Clair Crescent, London South, ON",London South,South O,House,629000,https://www.zolo.ca/london-south-real-estate/151-st-clair-crescent
-"376 Burwell Street, London East, ON",London East,East G,Townhouse,999900,https://www.zolo.ca/london-east-real-estate/376-burwell-street
-"24-5 Cadeau Terrace, London, ON",London,South B,Townhouse,549900,https://www.zolo.ca/london-real-estate/5-cadeau-terrace/24
-"34 Dudley Crescent, London South, ON",London South,South Y,House,495000,https://www.zolo.ca/london-south-real-estate/34-dudley-crescent
-"4542 Avenue Road, London South, ON",London South,South ZZ,House,899990,https://www.zolo.ca/london-south-real-estate/4542-avenue-road
-"43-99 Edgevalley Road, London East, ON",London East,East A,Townhouse,489900,https://www.zolo.ca/london-east-real-estate/99-edgevalley-road/43
-"27 Stirrup Court, London North, ON",London North,North J,House,849000,https://www.zolo.ca/london-north-real-estate/27-stirrup-court
-"647 Piccadilly Street, London East, ON",London East,East G,House,519900,https://www.zolo.ca/london-east-real-estate/647-piccadilly-street
-"26-600 Guiness Way, London North, ON",London North,North D,Townhouse,555610,https://www.zolo.ca/london-north-real-estate/600-guiness-way/26
-"55 Ada Street, London South, ON",London South,South I,House,469000,https://www.zolo.ca/london-south-real-estate/55-ada-street
-"501-583 Mornington Avenue, London East, ON",London East,East G,Condo,174999,https://www.zolo.ca/london-east-real-estate/583-mornington-avenue/501
-"410-931 Wonderland Road S, London South, ON",London South,South M,Condo,265000,https://www.zolo.ca/london-south-real-estate/931-wonderland-road-south/410
-"1604-323 Colborne Street, London East, ON",London East,East K,Condo,259900,https://www.zolo.ca/london-east-real-estate/323-colborne-street/1604
-"49 Euclid Avenue, London South, ON",London South,South F,House,549000,https://www.zolo.ca/london-south-real-estate/49-euclid-avenue
-"12-1990 Wavell Street, London East, ON",London East,East I,Townhouse,419900,https://www.zolo.ca/london-east-real-estate/1990-wavell-street/12
-"702-549 Ridout Street N, London East, ON",London East,East F,Condo,329000,https://www.zolo.ca/london-east-real-estate/549-ridout-street-north/702
-"3601 Lynds Street, London South, ON",London South,South W,House,799777,https://www.zolo.ca/london-south-real-estate/3601-lynds-street
-"118-1200 Commissioners Road W, London South, ON",London South,South B,Condo,624900,https://www.zolo.ca/london-south-real-estate/1200-commissioners-road-west/118
-"1566 Nairn Avenue, London East, ON",London East,East D,Townhouse,469000,https://www.zolo.ca/london-east-real-estate/1566-nairn-avenue
-"795 Catalpa Square, London North, ON",London North,North E,Townhouse,599999,https://www.zolo.ca/london-north-real-estate/795-catalpa-square
-"570 Pall Mall Street, London East, ON",London East,East F,House,488900,https://www.zolo.ca/london-east-real-estate/570-pall-mall-street
-"27 Dengate Crescent, London East, ON",London East,East P,House,639000,https://www.zolo.ca/london-east-real-estate/27-dengate-crescent
-"274 Tamblyn Drive, London North, ON",London North,North K,House,749000,https://www.zolo.ca/london-north-real-estate/274-tamblyn-drive
-"3-130 Windsor Crescent, London South, ON",London South,South F,Townhouse,730000,https://www.zolo.ca/london-south-real-estate/130-windsor-crescent/3
-"9-1850 Beaverbrook Avenue, London North, ON",London North,North M,Townhouse,549900,https://www.zolo.ca/london-north-real-estate/1850-beaverbrook-avenue/9
-"1625 Valhalla Street, London North, ON",London North,North F,House,629900,https://www.zolo.ca/london-north-real-estate/1625-valhalla-street
-"705-330 Ridout Street N, London East, ON",London East,East K,Condo,535000,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/705
-"214-300 Everglade Crescent, London North, ON",London North,North P,Condo,347500,https://www.zolo.ca/london-north-real-estate/300-everglade-crescent/214
-"876 Eagletrace Drive, London North, ON",London North,North S,House,1480000,https://www.zolo.ca/london-north-real-estate/876-eagletrace-drive
-"22-760 Berkshire Drive, London South, ON",London South,South N,Townhouse,409900,https://www.zolo.ca/london-south-real-estate/760-berkshire-drive/22
-"904-1103 Jalna Boulevard, London South, ON",London South,South X,Condo,219900,https://www.zolo.ca/london-south-real-estate/1103-jalna-boulevard/904
-"1948 Royal Crescent, London East, ON",London East,East I,House,479900,https://www.zolo.ca/london-east-real-estate/1948-royal-crescent
-"557 Ferndale Court, London South, ON",London South,South Q,House,524900,https://www.zolo.ca/london-south-real-estate/557-ferndale-court
-"1210-45 Pond Mills Road, London South, ON",London South,South J,Condo,309900,https://www.zolo.ca/london-south-real-estate/45-pond-mills-road/1210
-"1303-250 Pall Mall Street, London East, ON",London East,East F,Condo,549900,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/1303
-"398 Victoria Street, London East, ON",London East,East B,House,779900,https://www.zolo.ca/london-east-real-estate/398-victoria-street
-"126-3025 Singleton Avenue, London South, ON",London South,South W,Townhouse,549900,https://www.zolo.ca/london-south-real-estate/3025-singleton-avenue/126
-"403-127 Belmont Drive, London South, ON",London South,South O,Condo,375000,https://www.zolo.ca/london-south-real-estate/127-belmont-drive/403
-"619 Eden Avenue, London South, ON",London South,South R,House,599900,https://www.zolo.ca/london-south-real-estate/619-eden-avenue
-"129 Giles Street, London East, ON",London East,East M,House,499999,https://www.zolo.ca/london-east-real-estate/129-giles-street
-"22 Denlaw Road, London North, ON",London North,North I,Townhouse,479000,https://www.zolo.ca/london-north-real-estate/22-denlaw-road
-"505-626 First Street, London East, ON",London East,East H,Condo,349000,https://www.zolo.ca/london-east-real-estate/626-first-street/505
-"199 Vancouver Street, London East, ON",London East,East H,House,639900,https://www.zolo.ca/london-east-real-estate/199-vancouver-street
-"9 Strathcona Drive, London East, ON",London East,East O,House,559400,https://www.zolo.ca/london-east-real-estate/9-strathcona-drive
-"103 Edward Street, London South, ON",London South,South F,House,459900,https://www.zolo.ca/london-south-real-estate/103-edward-street
-"808-583 Mornington Ave Avenue, London East, ON",London East,East G,Condo,264900,https://www.zolo.ca/london-east-real-estate/583-mornington-ave-avenue/808
-"495 Jeffreybrook Close, London North, ON",London North,North B,House,775000,https://www.zolo.ca/london-north-real-estate/495-jeffreybrook-close
-"770 Cheapside Street, London East, ON",London East,East C,House,699900,https://www.zolo.ca/london-east-real-estate/770-cheapside-street
-"602-1030 Coronation Drive, London North, ON",London North,North I,Condo,419900,https://www.zolo.ca/london-north-real-estate/1030-coronation-drive/602
-"25-475 Sandringham Crescent, London South, ON",London South,South R,Townhouse,349900,https://www.zolo.ca/london-south-real-estate/475-sandringham-crescent/25
-"64-40 Tiffany Drive, London East, ON",London East,East I,Townhouse,345000,https://www.zolo.ca/london-east-real-estate/40-tiffany-drive/64
-"62-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,272900,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/62
-"1817 Gough Avenue, London North, ON",London North,North C,House,769000,https://www.zolo.ca/london-north-real-estate/1817-gough-avenue
-"100-690 Little Grey Street, London East, ON",London East,East L,Townhouse,310000,https://www.zolo.ca/london-east-real-estate/690-little-grey-street/100
-"404-250 Pall Mall Street, London East, ON",London East,East F,Condo,639900,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/404
-"210-727 Deveron Crescent, London South, ON",London South,South T,Condo,295000,https://www.zolo.ca/london-south-real-estate/727-deveron-crescent/210
-"1606-1235 Richmond Street, London East, ON",London East,East B,Condo,468900,https://www.zolo.ca/london-east-real-estate/1235-richmond-street/1606
-"8-590 Millbank Drive, London South, ON",London South,South Y,Townhouse,380000,https://www.zolo.ca/london-south-real-estate/590-millbank-drive/8
-"24-25 Erica Crescent, London South, ON",London South,South X,Townhouse,349500,https://www.zolo.ca/london-south-real-estate/25-erica-crescent/24
-"404-1510 Richmond Street, London North, ON",London North,North G,Condo,399900,https://www.zolo.ca/london-north-real-estate/1510-richmond-street/404
-"284 Exmouth Circle, London East, ON",London East,East L,House,564900,https://www.zolo.ca/london-east-real-estate/284-exmouth-circle
-"305-162 Wortley Road, London South, ON",London South,South F,Condo,799900,https://www.zolo.ca/london-south-real-estate/162-wortley-road/305
-"377 Griffith Street, London South, ON",London South,South B,House,609999,https://www.zolo.ca/london-south-real-estate/377-griffith-street
-"67-1990 Wavell Street, London East, ON",London East,East I,Townhouse,399900,https://www.zolo.ca/london-east-real-estate/1990-wavell-street/67
-"72-1850 Beaverbrook Avenue, London North, ON",London North,North M,Townhouse,549888,https://www.zolo.ca/london-north-real-estate/1850-beaverbrook-avenue/72
-"26-195 Barker Street, London East, ON",London East,East C,Townhouse,459900,https://www.zolo.ca/london-east-real-estate/195-barker-street/26
-"631 Elias Street, London East, ON",London East,East G,Townhouse,499999,https://www.zolo.ca/london-east-real-estate/631-elias-street
-"303-650 Cheapside Street, London East, ON",London East,East C,Condo,234900,https://www.zolo.ca/london-east-real-estate/650-cheapside-street/303
-"111-731 Deveron Crescent, London South, ON",London South,South T,Condo,195000,https://www.zolo.ca/london-south-real-estate/731-deveron-crescent/111
-"27 Wharncliffe Road S, London South, ON",London South,South E,Townhouse,529900,https://www.zolo.ca/london-south-real-estate/27-wharncliffe-road-south
-"1237 Landor Street, London East, ON",London East,East C,House,449000,https://www.zolo.ca/london-east-real-estate/1237-landor-street
-"159 Walmer Gardens, London North, ON",London North,North K,House,619900,https://www.zolo.ca/london-north-real-estate/159-walmer-gardens
-"25-9 Ailsa Place, London South, ON",London South,South J,Townhouse,399900,https://www.zolo.ca/london-south-real-estate/9-ailsa-place/25
-"Lot 2 Sunningdale Court, London North, ON",London North,North R,House,1499900,https://www.zolo.ca/london-north-real-estate/lot-2-sunningdale-court
-"1388 Kains Woods Terrace, London South, ON",London South,South A,House,999900,https://www.zolo.ca/london-south-real-estate/1388-kains-woods-terrace
-"1259 Ernest Avenue, London, ON",London,South X,House,499900,https://www.zolo.ca/london-real-estate/1259-ernest-avenue
-"24-464 Commissioners Road W, London South, ON",London South,South N,Townhouse,569900,https://www.zolo.ca/london-south-real-estate/464-commissioners-road-west/24
-"2701-363 Colborne Street, London East, ON",London East,East K,Condo,274800,https://www.zolo.ca/london-east-real-estate/363-colborne-street/2701
-"401-75 Huxley Street, London South, ON",London South,South E,Condo,284900,https://www.zolo.ca/london-south-real-estate/75-huxley-street/401
-"501-340 Sugarcreek Trail, London North, ON",London North,North N,Condo,465000,https://www.zolo.ca/london-north-real-estate/340-sugarcreek-trail/501
-"115 Haliburton Road, London South, ON",London South,South K,House,685000,https://www.zolo.ca/london-south-real-estate/115-haliburton-road
-"14 Archer Crescent, London South, ON",London South,South X,House,399900,https://www.zolo.ca/london-south-real-estate/14-archer-crescent
-"60 Tilipe Road, London East, ON",London East,East D,Townhouse,534900,https://www.zolo.ca/london-east-real-estate/60-tilipe-road
-"776 Headley Drive, London North, ON",London North,North O,House,629900,https://www.zolo.ca/london-north-real-estate/776-headley-drive
-"46-43 Capulet Walk, London North, ON",London North,North M,Townhouse,549900,https://www.zolo.ca/london-north-real-estate/43-capulet-walk/46
-"311-600 Grenfell Drive, London North, ON",London North,North C,Condo,249900,https://www.zolo.ca/london-north-real-estate/600-grenfell-drive/311
-"26 Caprice Crescent, London East, ON",London East,East I,House,489900,https://www.zolo.ca/london-east-real-estate/26-caprice-crescent
-"17-7 Cadeau Terrace, London South, ON",London South,South A,Townhouse,499000,https://www.zolo.ca/london-south-real-estate/7-cadeau-terrace/17
-"1403-240 Villagewalk Boulevard, London North, ON",London North,North R,Condo,1149900,https://www.zolo.ca/london-north-real-estate/240-villagewalk-boulevard/1403
-"810-573 Mornington Avenue, London East, ON",London East,East G,Condo,235000,https://www.zolo.ca/london-east-real-estate/573-mornington-avenue/810
-"2 Surrey Crescent, London South, ON",London South,South Y,House,499900,https://www.zolo.ca/london-south-real-estate/2-surrey-crescent
-"27-1220 Royal York Road, London North, ON",London North,North L,Townhouse,449900,https://www.zolo.ca/london-north-real-estate/1220-royal-york-road/27
-"610-563 Mornington Avenue, London East, ON",London East,East G,Condo,269000,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/610
-"10-215 Commissioners Road W, London South, ON",London South,South D,Townhouse,349900,https://www.zolo.ca/london-south-real-estate/215-commissioners-road-west/10
-"912-570 Proudfoot Lane, London North, ON",London North,North N,Condo,289900,https://www.zolo.ca/london-north-real-estate/570-proudfoot-lane/912
-"109-1030 Coronation Drive, London North, ON",London North,North I,Condo,429900,https://www.zolo.ca/london-north-real-estate/1030-coronation-drive/109
-"406-1705 Fiddlehead Place, London North, ON",London North,North R,Condo,1099000,https://www.zolo.ca/london-north-real-estate/1705-fiddlehead-place/406
-"313-260 Villagewalk Boulevard, London North, ON",London North,North R,Condo,436000,https://www.zolo.ca/london-north-real-estate/260-villagewalk-boulevard/313
-"46-99 Edgevalley Road, London East, ON",London East,East A,Townhouse,474900,https://www.zolo.ca/london-east-real-estate/99-edgevalley-road/46
-"485 English Street, London East, ON",London East,East G,Townhouse,589900,https://www.zolo.ca/london-east-real-estate/485-english-street
-"1007-1235 Richmond Street, London, ON",London,East C,Condo,485900,https://www.zolo.ca/london-real-estate/1235-richmond-street/1007
-"68-1100 Byron Baseline Road W, London South, ON",London South,South K,Townhouse,510000,https://www.zolo.ca/london-south-real-estate/1100-byron-baseline-road-west/68
-"108-1725 Ernest Avenue, London, ON",London,South X,Townhouse,359900,https://www.zolo.ca/london-real-estate/1725-ernest-avenue/108
-"501-1510 Richmond Street, London North, ON",London North,North G,Condo,374900,https://www.zolo.ca/london-north-real-estate/1510-richmond-street/501
-"42 Applegreen Grove, London South, ON",London South,South N,House,599900,https://www.zolo.ca/london-south-real-estate/42-applegreen-grove
-"52-530 Gatestone Road, London South, ON",London South,South U,Townhouse,525000,https://www.zolo.ca/london-south-real-estate/530-gatestone-road/52
-"15 Cumberland Crescent, London North, ON",London North,North G,House,674900,https://www.zolo.ca/london-north-real-estate/15-cumberland-crescent
-"1236 Southdale Road E, London South, ON",London South,South S,Townhouse,899900,https://www.zolo.ca/london-south-real-estate/1236-southdale-road-east
-"461 Cleveland Avenue, London South, ON",London South,South J,Townhouse,449900,https://www.zolo.ca/london-south-real-estate/461-cleveland-avenue
-"23 Fox Mill Crescent, London South, ON",London South,South N,House,655000,https://www.zolo.ca/london-south-real-estate/23-fox-mill-crescent
-"15 Villeneuve Crescent, London East, ON",London East,East I,House,629900,https://www.zolo.ca/london-east-real-estate/15-villeneuve-crescent
-"8-50 Chapman Court, London North, ON",London North,North I,Townhouse,409900,https://www.zolo.ca/london-north-real-estate/50-chapman-court/8
-"607-549 Ridout Street, London East, ON",London East,East F,Condo,339900,https://www.zolo.ca/london-east-real-estate/549-ridout-street/607
-"52-136 Conway Drive, London South, ON",London South,South X,Condo,216500,https://www.zolo.ca/london-south-real-estate/136-conway-drive/52
-"115 Champlain Crescent, London East, ON",London East,East I,House,559900,https://www.zolo.ca/london-east-real-estate/115-champlain-crescent
-"601-1510 Richmond Street N, London North, ON",London North,North G,Condo,675000,https://www.zolo.ca/london-north-real-estate/1510-richmond-street-north/601
-"56 Forbes Street, London South, ON",London South,South E,House,469900,https://www.zolo.ca/london-south-real-estate/56-forbes-street
-"348 Piccadilly Street, London East, ON",London East,East F,Townhouse,475000,https://www.zolo.ca/london-east-real-estate/348-piccadilly-street
-"25-190 Fleming Drive, London East, ON",London East,East D,Townhouse,364000,https://www.zolo.ca/london-east-real-estate/190-fleming-drive/25
-"38 Elliott Street, London East, ON",London East,East C,Townhouse,449900,https://www.zolo.ca/london-east-real-estate/38-elliott-street
-"2091 Wickerson Road, London South, ON",London South,South K,House,998000,https://www.zolo.ca/london-south-real-estate/2091-wickerson-road
-"701-389 Dundas Street, London East, ON",London East,East K,Condo,295000,https://www.zolo.ca/london-east-real-estate/389-dundas-street/701
-"1040 Hanson Crescent, London North, ON",London North,North E,House,949900,https://www.zolo.ca/london-north-real-estate/1040-hanson-crescent
-"86-9 Ailsa Place, London South, ON",London South,South J,Townhouse,414900,https://www.zolo.ca/london-south-real-estate/9-ailsa-place/86
-"48-1110 Meadowlark Ridge, London South, ON",London South,South U,Townhouse,489900,https://www.zolo.ca/london-south-real-estate/1110-meadowlark-ridge/48
-"2 Havenwood Way, London North, ON",London North,North O,House,1329000,https://www.zolo.ca/london-north-real-estate/2-havenwood-way
-"809-505 Talbot Street, London East, ON",London East,East F,Condo,659900,https://www.zolo.ca/london-east-real-estate/505-talbot-street/809
-"604 Talltree Crescent, London East, ON",London East,East I,House,569900,https://www.zolo.ca/london-east-real-estate/604-talltree-crescent
-"830 Riverside Drive, London North, ON",London North,North Q,House,1275000,https://www.zolo.ca/london-north-real-estate/830-riverside-drive
-"85-2700 Buroak Drive, London North, ON",London North,North S,Townhouse,599000,https://www.zolo.ca/london-north-real-estate/2700-buroak-drive/85
-"5-1924 Cedarhollow Boulevard, London North, ON",London North,North D,Townhouse,559900,https://www.zolo.ca/london-north-real-estate/1924-cedarhollow-boulevard/5
-"322 Fleming Drive, London East, ON",London East,East D,House,519000,https://www.zolo.ca/london-east-real-estate/322-fleming-drive
-"106-1275 Bentley Drive, London, ON",London,East D,Condo,265000,https://www.zolo.ca/london-real-estate/1275-bentley-drive/106
-"301-521 Riverside Drive W, London North, ON",London North,North P,Condo,349900,https://www.zolo.ca/london-north-real-estate/521-riverside-drive-west/301
-"226 Grand Avenue, London South, ON",London South,South H,House,389900,https://www.zolo.ca/london-south-real-estate/226-grand-avenue
-"49-110 Deveron Crescent, London South, ON",London South,South T,Townhouse,349900,https://www.zolo.ca/london-south-real-estate/110-deveron-crescent/49
-"59-1010 Fanshawe Park Road E, London North, ON",London North,North C,Townhouse,559900,https://www.zolo.ca/london-north-real-estate/1010-fanshawe-park-road-east/59
-"951 Notre Dame Drive, London South, ON",London South,South O,Townhouse,319900,https://www.zolo.ca/london-south-real-estate/951-notre-dame-drive
-"2594 Sheffield Boulevard, London South, ON",London South,South U,Townhouse,519900,https://www.zolo.ca/london-south-real-estate/2594-sheffield-boulevard
-"913-1235 Richmond Street, London East, ON",London East,East B,Condo,474900,https://www.zolo.ca/london-east-real-estate/1235-richmond-street/913
-"708-583 Mornington Avenue, London East, ON",London East,East G,Condo,214900,https://www.zolo.ca/london-east-real-estate/583-mornington-avenue/708
-"56-1595 Capri Crescent, London North, ON",London North,North S,Townhouse,495000,https://www.zolo.ca/london-north-real-estate/1595-capri-crescent/56
-"813-240 Villagewalk Boulevard, London North, ON",London North,North R,Condo,479900,https://www.zolo.ca/london-north-real-estate/240-villagewalk-boulevard/813
-"36-1375 Whetherfield Street, London North, ON",London North,North M,Townhouse,525000,https://www.zolo.ca/london-north-real-estate/1375-whetherfield-street/36
-"61 Godfrey Drive, London East, ON",London East,East D,House,599900,https://www.zolo.ca/london-east-real-estate/61-godfrey-drive
-"90-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,279900,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/90
-"243 Tecumseh Avenue E, London South, ON",London South,South F,Townhouse,698000,https://www.zolo.ca/london-south-real-estate/243-tecumseh-avenue-east
-"403-570 William Street, London East, ON",London East,East F,Condo,269900,https://www.zolo.ca/london-east-real-estate/570-william-street/403
-"95 Scotchmere Crescent, London South, ON",London South,South X,Townhouse,469900,https://www.zolo.ca/london-south-real-estate/95-scotchmere-crescent
-"1563 Dale Street, London East, ON",London East,East H,House,449900,https://www.zolo.ca/london-east-real-estate/1563-dale-street
-"215-480 Callaway Road, London North, ON",London North,North R,Condo,549500,https://www.zolo.ca/london-north-real-estate/480-callaway-road/215
-"505-30 Chapman Court N, London North, ON",London North,North I,Condo,338888,https://www.zolo.ca/london-north-real-estate/30-chapman-court-north/505
-"2-450 Pond Mills Road, London South, ON",London South,South T,Townhouse,369900,https://www.zolo.ca/london-south-real-estate/450-pond-mills-road/2
-"1102-19 King Street, London East, ON",London East,East K,Condo,499900,https://www.zolo.ca/london-east-real-estate/19-king-street/1102
-"172-1775 Culver Drive, London East, ON",London East,East H,Townhouse,374900,https://www.zolo.ca/london-east-real-estate/1775-culver-drive/172
-"603-260 Villagewalk Boulevard, London North, ON",London North,North R,Condo,729900,https://www.zolo.ca/london-north-real-estate/260-villagewalk-boulevard/603
-"1311-695 Richmond Street, London East, ON",London East,East F,Condo,379000,https://www.zolo.ca/london-east-real-estate/695-richmond-street/1311
-"32-159 Sandringham Crescent, London South, ON",London South,South R,Townhouse,324900,https://www.zolo.ca/london-south-real-estate/159-sandringham-crescent/32
-"207-1830 Dumont Street, London East, ON",London East,East H,Condo,224900,https://www.zolo.ca/london-east-real-estate/1830-dumont-street/207
-"508-563 Mornington Avenue, London East, ON",London East,East G,Condo,239900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/508
-"1762 Dewar Place, London North, ON",London North,North S,House,1059000,https://www.zolo.ca/london-north-real-estate/1762-dewar-place
-"104-1500 Richmond Street, London North, ON",London North,North G,Townhouse,512500,https://www.zolo.ca/london-north-real-estate/1500-richmond-street/104
-"24-65 Fiddlers Green Road, London North, ON",London North,North P,Townhouse,649000,https://www.zolo.ca/london-north-real-estate/65-fiddlers-green-road/24
-"1004-563 Mornington Avenue, London East, ON",London East,East G,Condo,159900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/1004
-"9-807 Kleinburg Drive, London North, ON",London North,North B,Townhouse,539900,https://www.zolo.ca/london-north-real-estate/807-kleinburg-drive/9
-"1263 Sorrel Road, London East, ON",London East,East D,Townhouse,420000,https://www.zolo.ca/london-east-real-estate/1263-sorrel-road
-"75 Connaught Avenue, London East, ON",London East,East G,House,359900,https://www.zolo.ca/london-east-real-estate/75-connaught-avenue
-"701-986 Huron Street, London East, ON",London East,East A,Condo,259000,https://www.zolo.ca/london-east-real-estate/986-huron-street/701
-"1099 Byron Baseline Road, London South, ON",London South,South K,Townhouse,489900,https://www.zolo.ca/london-south-real-estate/1099-byron-baseline-road
-"604-583 Mornington Avenue, London East, ON",London East,East G,Condo,234900,https://www.zolo.ca/london-east-real-estate/583-mornington-avenue/604
-"52-1600 Mickleborough Drive, London North, ON",London North,North I,Townhouse,432888,https://www.zolo.ca/london-north-real-estate/1600-mickleborough-drive/52
-"145 North Centre Road, London North, ON",London North,North B,Townhouse,519000,https://www.zolo.ca/london-north-real-estate/145-north-centre-road
-"143-166 Southdale Road W, London South, ON",London South,South O,Townhouse,324900,https://www.zolo.ca/london-south-real-estate/166-southdale-road-west/143
-"10 Pegler Street, London East, ON",London East,East L,House,435000,https://www.zolo.ca/london-east-real-estate/10-pegler-street
-"1564 Nairn Avenue, London East, ON",London East,East D,Townhouse,410000,https://www.zolo.ca/london-east-real-estate/1564-nairn-avenue
-"1032 Trafalgar Street, London East, ON",London East,East M,Townhouse,429900,https://www.zolo.ca/london-east-real-estate/1032-trafalgar-street
-"5-1460 Limberlost Road, London North, ON",London North,North I,Townhouse,424900,https://www.zolo.ca/london-north-real-estate/1460-limberlost-road/5
-"102 St Bees Court, London North, ON",London North,North A,House,1149900,https://www.zolo.ca/london-north-real-estate/102-st-bees-court
-"140 Hartson Road, London North, ON",London North,North O,House,795000,https://www.zolo.ca/london-north-real-estate/140-hartson-road
-"201-320 Sugarcreek Trail, London North, ON",London North,North N,Condo,445000,https://www.zolo.ca/london-north-real-estate/320-sugarcreek-trail/201
-"7-638 Wharncliffe Road S, London South, ON",London South,South P,Townhouse,514900,https://www.zolo.ca/london-south-real-estate/638-wharncliffe-road-south/7
-"205-744 Wonderland Road S, London South, ON",London South,South N,Condo,335900,https://www.zolo.ca/london-south-real-estate/744-wonderland-road-south/205
-"106-144 Conway Drive, London South, ON",London South,South X,Condo,279900,https://www.zolo.ca/london-south-real-estate/144-conway-drive/106
-"107 Rosamond Crescent, London South, ON",London South,South X,House,474900,https://www.zolo.ca/london-south-real-estate/107-rosamond-crescent
-"404-570 William Street, London East, ON",London East,East F,Condo,300000,https://www.zolo.ca/london-east-real-estate/570-william-street/404
-"204 Burnside Drive, London East, ON",London East,East I,Townhouse,639000,https://www.zolo.ca/london-east-real-estate/204-burnside-drive
-"55-144 Conway Drive, London South, ON",London South,South X,Condo,259900,https://www.zolo.ca/london-south-real-estate/144-conway-drive/55
-"2 Oakwood Drive, London South, ON",London South,South B,House,859900,https://www.zolo.ca/london-south-real-estate/2-oakwood-drive
-"220-1447 Huron Street, London East, ON",London East,East D,Condo,289900,https://www.zolo.ca/london-east-real-estate/1447-huron-street/220
-"1505-380 King Street, London East, ON",London East,East K,Condo,209900,https://www.zolo.ca/london-east-real-estate/380-king-street/1505
-"1615 Wickerson Gate, London South, ON",London South,South K,House,1299900,https://www.zolo.ca/london-south-real-estate/1615-wickerson-gate
-"1505-1105 Jalna Boulevard, London South, ON",London South,South X,Condo,189900,https://www.zolo.ca/london-south-real-estate/1105-jalna-boulevard/1505
-"12 Spencer Crescent, London North, ON",London North,North G,House,910000,https://www.zolo.ca/london-north-real-estate/12-spencer-crescent
-"1001-1600 Adelaide Street N, London North, ON",London North,North C,Condo,348888,https://www.zolo.ca/london-north-real-estate/1600-adelaide-street-north/1001
-"30 Trapper Street, London East, ON",London East,East P,House,599900,https://www.zolo.ca/london-east-real-estate/30-trapper-street
-"600 Wonderland Road S, London South, ON",London South,South N,Townhouse,329900,https://www.zolo.ca/london-south-real-estate/600-wonderland-road-south
-"245 Ensign Crescent, London South, ON",London South,South N,House,784900,https://www.zolo.ca/london-south-real-estate/245-ensign-crescent
-"616 Wilkins Street, London South, ON",London South,South R,Townhouse,359900,https://www.zolo.ca/london-south-real-estate/616-wilkins-street
-"60-151 Martinet Avenue, London East, ON",London East,East I,Townhouse,329900,https://www.zolo.ca/london-east-real-estate/151-martinet-avenue/60
-"401-280 Queens Avenue S, London East, ON",London East,East F,Condo,448000,https://www.zolo.ca/london-east-real-estate/280-queens-avenue-south/401
-"795 Freeport Street, London North, ON",London North,North E,House,699999,https://www.zolo.ca/london-north-real-estate/795-freeport-street
-"166 Ashland Avenue, London East, ON",London East,East M,House,447900,https://www.zolo.ca/london-east-real-estate/166-ashland-avenue
-"53 Cliftonvale Avenue, London South, ON",London South,South E,House,519000,https://www.zolo.ca/london-south-real-estate/53-cliftonvale-avenue
-"9-181 Skyline Avenue, London North, ON",London North,North B,House,879000,https://www.zolo.ca/london-north-real-estate/181-skyline-avenue/9
-"96-51 Sholto Drive, London South, ON",London South,South X,Townhouse,449900,https://www.zolo.ca/london-south-real-estate/51-sholto-drive/96
-"74 Sterling Street, London East, ON",London East,East G,House,449000,https://www.zolo.ca/london-east-real-estate/74-sterling-street
-"97-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,289900,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/97
-"1105-155 Kent Street, London East, ON",London East,East F,Condo,294900,https://www.zolo.ca/london-east-real-estate/155-kent-street/1105
-"816 Buckeye Lane, London North, ON",London North,North E,Townhouse,499999,https://www.zolo.ca/london-north-real-estate/816-buckeye-lane
-"940 Oxford Street W, London North, ON",London North,North P,House,1100000,https://www.zolo.ca/london-north-real-estate/940-oxford-street-west
-"315 Pall Mall Street, London East, ON",London East,East F,House,699900,https://www.zolo.ca/london-east-real-estate/315-pall-mall-street
-"14-152 Albert Street, London East, ON",London East,East F,Townhouse,629900,https://www.zolo.ca/london-east-real-estate/152-albert-street/14
-"908-250 Pall Mall Street, London East, ON",London East,East F,Condo,489900,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/908
-"695 Woodcrest Boulevard, London South, ON",London South,South M,Townhouse,525000,https://www.zolo.ca/london-south-real-estate/695-woodcrest-boulevard
-"202-600 Grenfell Drive, London North, ON",London North,North C,Condo,319900,https://www.zolo.ca/london-north-real-estate/600-grenfell-drive/202
-"2-669 Osgoode Drive, London South, ON",London South,South Y,Townhouse,399900,https://www.zolo.ca/london-south-real-estate/669-osgoode-drive/2
-"3091 Tokala Trail, London North, ON",London North,North S,House,925000,https://www.zolo.ca/london-north-real-estate/3091-tokala-trail
-"105-1975 Fountain Grass Drive, London South, ON",London South,South B,Condo,608900,https://www.zolo.ca/london-south-real-estate/1975-fountain-grass-drive/105
-"303-733 Deveron Crescent, London South, ON",London South,South T,Condo,349900,https://www.zolo.ca/london-south-real-estate/733-deveron-crescent/303
-"128-51 Sholto Drive, London South, ON",London South,South X,Townhouse,399900,https://www.zolo.ca/london-south-real-estate/51-sholto-drive/128
-"12-535 Topping Lane, London South, ON",London South,South N,Townhouse,484900,https://www.zolo.ca/london-south-real-estate/535-topping-lane/12
-"405-333 Commissioners Road W, London South, ON",London South,South D,Condo,274900,https://www.zolo.ca/london-south-real-estate/333-commissioners-road-west/405
-"60-700 Osgoode Drive, London South, ON",London South,South Y,Townhouse,409900,https://www.zolo.ca/london-south-real-estate/700-osgoode-drive/60
-"704-600 Grenfell Drive, London North, ON",London North,North C,Condo,279900,https://www.zolo.ca/london-north-real-estate/600-grenfell-drive/704
-"937 Lennon Way, London North, ON",London North,North E,House,959900,https://www.zolo.ca/london-north-real-estate/937-lennon-way
-"183-185 Vancouver Street, London East, ON",London East,East H,Townhouse,839900,https://www.zolo.ca/london-east-real-estate/183-185-vancouver-street
-"87-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,285000,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/87
-"925 Maitland Street, London East, ON",London East,East B,House,529900,https://www.zolo.ca/london-east-real-estate/925-maitland-street
-"857 Catalpa Square, London North, ON",London North,North E,Townhouse,569999,https://www.zolo.ca/london-north-real-estate/857-catalpa-square
-"404-1975 Fountain Grass Drive, London South, ON",London South,South B,Condo,699000,https://www.zolo.ca/london-south-real-estate/1975-fountain-grass-drive/404
-"26-624 William Street, London East, ON",London East,East F,Townhouse,474900,https://www.zolo.ca/london-east-real-estate/624-william-street/26
-"414-1200 Commissioners Road W, London South, ON",London South,South B,Condo,948000,https://www.zolo.ca/london-south-real-estate/1200-commissioners-road-west/414
-"48-126 Belmont Drive, London South, ON",London South,South O,Townhouse,399900,https://www.zolo.ca/london-south-real-estate/126-belmont-drive/48
-"71 Langarth Street W, London South, ON",London South,South E,House,734900,https://www.zolo.ca/london-south-real-estate/71-langarth-street-west
-"1762 Aldersbrook Road, London North, ON",London North,North F,Townhouse,470000,https://www.zolo.ca/london-north-real-estate/1762-aldersbrook-road
-"115-1680 Evans Boulevard, London South, ON",London South,South U,Townhouse,377184,https://www.zolo.ca/london-south-real-estate/1680-evans-boulevard/115
-"2003 Royal Crescent, London East, ON",London East,East I,House,534900,https://www.zolo.ca/london-east-real-estate/2003-royal-crescent
-"525 Grosvenor Street, London East, ON",London East,East B,House,649900,https://www.zolo.ca/london-east-real-estate/525-grosvenor-street
-"36 Grosvenor Street, London East, ON",London East,East B,House,2100000,https://www.zolo.ca/london-east-real-estate/36-grosvenor-street
-"28-1478 Adelaide Street N, London North, ON",London North,North H,Townhouse,529900,https://www.zolo.ca/london-north-real-estate/1478-adelaide-street-north/28
-"3-745 Chelton Road, London, ON",London,South U,Townhouse,510000,https://www.zolo.ca/london-real-estate/745-chelton-road/3
-"1292 Sorrel Road, London East, ON",London East,East E,Townhouse,418900,https://www.zolo.ca/london-east-real-estate/1292-sorrel-road
-"1103-563 Mornington Avenue, London East, ON",London East,East G,Condo,169900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/1103
-"1129 South Wenige Drive, London North, ON",London North,North C,House,725000,https://www.zolo.ca/london-north-real-estate/1129-south-wenige-drive
-"208-260 Villagewalk Boulevard, London North, ON",London North,North R,Condo,769000,https://www.zolo.ca/london-north-real-estate/260-villagewalk-boulevard/208
-"5-417 Hyde Park Road, London North, ON",London North,North P,Townhouse,599900,https://www.zolo.ca/london-north-real-estate/417-hyde-park-road/5
-"7-1755 Louise Boulevard, London North, ON",London North,North R,Townhouse,611000,https://www.zolo.ca/london-north-real-estate/1755-louise-boulevard/7
-"1605-695 Richmond Street, London East, ON",London East,East F,Condo,355000,https://www.zolo.ca/london-east-real-estate/695-richmond-street/1605
-"107 Windsor Crescent, London South, ON",London South,South F,Townhouse,929900,https://www.zolo.ca/london-south-real-estate/107-windsor-crescent
-"466 Edenridge Drive, London East, ON",London East,East A,House,585000,https://www.zolo.ca/london-east-real-estate/466-edenridge-drive
-"404-1103 Jalna Boulevard, London South, ON",London South,South X,Condo,199900,https://www.zolo.ca/london-south-real-estate/1103-jalna-boulevard/404
-"1901-389 Dundas Street, London East, ON",London East,East K,Condo,250000,https://www.zolo.ca/london-east-real-estate/389-dundas-street/1901
-"1479 Sandpiper Drive E, London North, ON",London North,North D,House,945000,https://www.zolo.ca/london-north-real-estate/1479-sandpiper-drive-east
-"1316 Twilite Boulevard, London North, ON",London North,North S,House,829900,https://www.zolo.ca/london-north-real-estate/1316-twilite-boulevard
-"1771 Applerock Avenue, London North, ON",London North,North S,House,1099900,https://www.zolo.ca/london-north-real-estate/1771-applerock-avenue
-"176 Culver Crescent, London East, ON",London East,East H,House,499000,https://www.zolo.ca/london-east-real-estate/176-culver-crescent
-"1111-695 Richmond Street, London East, ON",London East,East F,Condo,339000,https://www.zolo.ca/london-east-real-estate/695-richmond-street/1111
-"14 Duncan Crescent, London East, ON",London East,East D,House,699900,https://www.zolo.ca/london-east-real-estate/14-duncan-crescent
-"21-4067 Colonel Talbot Road, London South, ON",London South,South V,Townhouse,679000,https://www.zolo.ca/london-south-real-estate/4067-colonel-talbot-road/21
-"110-1830 Dumont Street, London East, ON",London East,East H,Condo,199900,https://www.zolo.ca/london-east-real-estate/1830-dumont-street/110
-"2217 Wateroak Drive, London North, ON",London North,North S,House,1299000,https://www.zolo.ca/london-north-real-estate/2217-wateroak-drive
-"11-417 Hyde Park Road, London North, ON",London North,North P,Townhouse,619000,https://www.zolo.ca/london-north-real-estate/417-hyde-park-road/11
-"83 Bracebridge Court, London North, ON",London North,North G,House,849900,https://www.zolo.ca/london-north-real-estate/83-bracebridge-court
-"955 Lawson Road, London North, ON",London North,North I,House,600000,https://www.zolo.ca/london-north-real-estate/955-lawson-road
-"1236 Emma Chase, London North, ON",London North,North I,House,835000,https://www.zolo.ca/london-north-real-estate/1236-emma-chase
-"302-122 Wortley Road, London South, ON",London South,South F,Condo,989900,https://www.zolo.ca/london-south-real-estate/122-wortley-road/302
-"708-563 Mornington Avenue, London East, ON",London East,East G,Condo,249900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/708
-"506-1105 Jalna Boulevard, London South, ON",London South,South X,Condo,219500,https://www.zolo.ca/london-south-real-estate/1105-jalna-boulevard/506
-"109-1680 Evans Boulevard, London South, ON",London South,South U,Townhouse,394836,https://www.zolo.ca/london-south-real-estate/1680-evans-boulevard/109
-"1902-330 Ridout Street N, London East, ON",London East,East K,Condo,499900,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/1902
-"34-40 Arbour Glen Crescent, London East, ON",London East,East A,Townhouse,239000,https://www.zolo.ca/london-east-real-estate/40-arbour-glen-crescent/34
-"308-460 Wellington Street, London East, ON",London East,East F,Condo,299900,https://www.zolo.ca/london-east-real-estate/460-wellington-street/308
-"1406-695 Richmond Street, London East, ON",London East,East F,Condo,357900,https://www.zolo.ca/london-east-real-estate/695-richmond-street/1406
-"34-1320 Savannah Drive, London North, ON",London North,North C,Townhouse,409900,https://www.zolo.ca/london-north-real-estate/1320-savannah-drive/34
-"1 & 2-737 William Street N, London East, ON",London East,East F,Townhouse,559900,https://www.zolo.ca/london-east-real-estate/737-william-street-north/1--2
-"615 Deveron Crescent, London South, ON",London South,South T,Townhouse,489900,https://www.zolo.ca/london-south-real-estate/615-deveron-crescent
-"3-720 Wonderland Road S, London South, ON",London South,South N,Townhouse,324900,https://www.zolo.ca/london-south-real-estate/720-wonderland-road-south/3
-"4-2215 Callingham Drive, London North, ON",London North,North R,Townhouse,920000,https://www.zolo.ca/london-north-real-estate/2215-callingham-drive/4
-"405-440 Central Avenue, London East, ON",London East,East F,Condo,229999,https://www.zolo.ca/london-east-real-estate/440-central-avenue/405
-"1-280 Queens Avenue, London East, ON",London East,East F,Townhouse,386800,https://www.zolo.ca/london-east-real-estate/280-queens-avenue/1
-"226-2228 Trafalgar Street, London East, ON",London East,East I,Condo,279900,https://www.zolo.ca/london-east-real-estate/2228-trafalgar-street/226
-"617-480 Callaway Road, London North, ON",London North,North R,Condo,549000,https://www.zolo.ca/london-north-real-estate/480-callaway-road/617
-"82-1600 Culver Drive, London East, ON",London East,East H,Townhouse,299900,https://www.zolo.ca/london-east-real-estate/1600-culver-drive/82
-"50-1385 Commissioners Road W, London South, ON",London South,South B,Townhouse,425000,https://www.zolo.ca/london-south-real-estate/1385-commissioners-road-west/50
-"80-3400 Castle Rock Place, London South, ON",London South,South W,Townhouse,579900,https://www.zolo.ca/london-south-real-estate/3400-castle-rock-place/80
-"11-100 Stroud Crescent, London South, ON",London South,South X,Townhouse,495000,https://www.zolo.ca/london-south-real-estate/100-stroud-crescent/11
-"130 Langarth Street E, London South, ON",London South,South F,House,549999,https://www.zolo.ca/london-south-real-estate/130-langarth-street-east
-"127 Acorn Crescent, London, ON",London,North F,House,649000,https://www.zolo.ca/london-real-estate/127-acorn-crescent
-"113-1680 Evans Boulevard, London South, ON",London South,South U,Townhouse,400126,https://www.zolo.ca/london-south-real-estate/1680-evans-boulevard/113
-"1107-1107 Richmond Street, London East, ON",London East,East B,Condo,474900,https://www.zolo.ca/london-east-real-estate/1107-richmond-street/1107
-"6893 Heathwoods Avenue, London South, ON",London South,South V,Townhouse,594800,https://www.zolo.ca/london-south-real-estate/6893-heathwoods-avenue
-"83 Bonaventure Drive, London East, ON",London East,East I,Townhouse,484900,https://www.zolo.ca/london-east-real-estate/83-bonaventure-drive
-"765 Homeview Road, London South, ON",London South,South Q,Townhouse,510000,https://www.zolo.ca/london-south-real-estate/765-homeview-road
-"7 Harrow Court, London South, ON",London South,South S,House,689999,https://www.zolo.ca/london-south-real-estate/7-harrow-court
-"323 Clarke Road, London East, ON",London East,East H,House,599000,https://www.zolo.ca/london-east-real-estate/323-clarke-road
-"212-1447 Huron Street, London East, ON",London East,East D,Condo,244900,https://www.zolo.ca/london-east-real-estate/1447-huron-street/212
-"3046 Heardcreek Trail, London North, ON",London North,North S,House,799000,https://www.zolo.ca/london-north-real-estate/3046-heardcreek-trail
-"904-544 Talbot Street, London East, ON",London East,East F,Condo,468800,https://www.zolo.ca/london-east-real-estate/544-talbot-street/904
-"1009-573 Mornington Avenue, London East, ON",London East,East G,Condo,179900,https://www.zolo.ca/london-east-real-estate/573-mornington-avenue/1009
-"136 Mendip Crescent, London South, ON",London South,South Y,House,539900,https://www.zolo.ca/london-south-real-estate/136-mendip-crescent
-"108-480 Callaway Road, London North, ON",London North,North R,Condo,464900,https://www.zolo.ca/london-north-real-estate/480-callaway-road/108
-"57 Langarth Street E, London South, ON",London South,South F,House,619000,https://www.zolo.ca/london-south-real-estate/57-langarth-street-east
-"33-474 Southdale Road E, London South, ON",London South,South Q,Townhouse,347500,https://www.zolo.ca/london-south-real-estate/474-southdale-road-east/33
-"198 Arlington Crescent, London South, ON",London South,South J,House,519900,https://www.zolo.ca/london-south-real-estate/198-arlington-crescent
-"713-240 Villagewalk Boulevard, London North, ON",London North,North R,Condo,524900,https://www.zolo.ca/london-north-real-estate/240-villagewalk-boulevard/713
-"51-678 Upper Queen Street, London South, ON",London South,South R,Townhouse,372900,https://www.zolo.ca/london-south-real-estate/678-upper-queen-street/51
-"510-460 Callaway Road, London North, ON",London North,North R,Condo,549000,https://www.zolo.ca/london-north-real-estate/460-callaway-road/510
-"402-626 First Street, London East, ON",London East,East H,Condo,349900,https://www.zolo.ca/london-east-real-estate/626-first-street/402
-"#610-460 Callaway Road, London North, ON",London North,North R,Condo,549900,https://www.zolo.ca/london-north-real-estate/460-callaway-road/610
-"6-675 Wonderland Road S, London South, ON",London South,South M,Condo,234900,https://www.zolo.ca/london-south-real-estate/675-wonderland-road-south/6
-"102 Loggers Grove, London East, ON",London East,East P,House,699900,https://www.zolo.ca/london-east-real-estate/102-loggers-grove
-"376 Richmond Street, London East, ON",London East,East K,Townhouse,6600000,https://www.zolo.ca/london-east-real-estate/376-richmond-street
-"706-76 Baseline Road W, London South, ON",London South,South E,Condo,229900,https://www.zolo.ca/london-south-real-estate/76-baseline-road-west/706
-"81 Beechbank Crescent, London South, ON",London South,South X,House,449900,https://www.zolo.ca/london-south-real-estate/81-beechbank-crescent
-"12-1855 Aldersbrook Road, London North, ON",London North,North F,Townhouse,424900,https://www.zolo.ca/london-north-real-estate/1855-aldersbrook-road/12
-"28 Edgemere Crescent, London South, ON",London South,South T,Townhouse,489900,https://www.zolo.ca/london-south-real-estate/28-edgemere-crescent
-"7-1059 Whetherfield Street, London North, ON",London North,North M,Townhouse,449900,https://www.zolo.ca/london-north-real-estate/1059-whetherfield-street/7
-"52 Emery Street E, London South, ON",London South,South F,House,669900,https://www.zolo.ca/london-south-real-estate/52-emery-street-east
-"118-1330 Jalna Boulevard, London South, ON",London South,South X,Townhouse,285000,https://www.zolo.ca/london-south-real-estate/1330-jalna-boulevard/118
-"2334 Meadowgate Boulevard, London South, ON",London South,South U,House,734900,https://www.zolo.ca/london-south-real-estate/2334-meadowgate-boulevard
-"301-460 Callaway Road, London North, ON",London North,North R,Condo,650000,https://www.zolo.ca/london-north-real-estate/460-callaway-road/301
-"907-573 Mornington Avenue, London East, ON",London East,East G,Townhouse,149000,https://www.zolo.ca/london-east-real-estate/573-mornington-avenue/907
-"12-210 Carlyle Drive, London East, ON",London East,East I,Townhouse,319900,https://www.zolo.ca/london-east-real-estate/210-carlyle-drive/12
-"21-30 Clarendon Crescent, London South, ON",London South,South P,Townhouse,440000,https://www.zolo.ca/london-south-real-estate/30-clarendon-crescent/21
-"602-521 Riverside Drive, London North, ON",London North,North P,Condo,344900,https://www.zolo.ca/london-north-real-estate/521-riverside-drive/602
-"625 Hale Street, London East, ON",London East,East N,House,524900,https://www.zolo.ca/london-east-real-estate/625-hale-street
-"860 Trafalgar Street, London East, ON",London East,East L,Townhouse,499999,https://www.zolo.ca/london-east-real-estate/860-trafalgar-street
-"135-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,258500,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/135
-"4-2605 Kettering Place, London South, ON",London South,South U,Townhouse,499900,https://www.zolo.ca/london-south-real-estate/2605-kettering-place/4
-"28-474 Southdale Road E, London South, ON",London South,South Q,Townhouse,389000,https://www.zolo.ca/london-south-real-estate/474-southdale-road-east/28
-"430 Magnolia Crescent, London East, ON",London East,East A,House,630000,https://www.zolo.ca/london-east-real-estate/430-magnolia-crescent
-"211-460 Callaway Road, London North, ON",London North,North R,Condo,899000,https://www.zolo.ca/london-north-real-estate/460-callaway-road/211
-"106 Northumberland Road, London North, ON",London North,North L,House,1399900,https://www.zolo.ca/london-north-real-estate/106-northumberland-road
-"2503-505 Talbot Street, London East, ON",London East,East F,Condo,639900,https://www.zolo.ca/london-east-real-estate/505-talbot-street/2503
-"1975 Upperpoint Gate, London South, ON",London South,South B,Townhouse,724900,https://www.zolo.ca/london-south-real-estate/1975-upperpoint-gate
-"302-323 Colborne Street, London East, ON",London East,East K,Condo,249900,https://www.zolo.ca/london-east-real-estate/323-colborne-street/302
-"6905 Heathwoods Avenue, London South, ON",London South,South V,Townhouse,594800,https://www.zolo.ca/london-south-real-estate/6905-heathwoods-avenue
-"103-600 Talbot Street, London East, ON",London East,East F,Condo,375000,https://www.zolo.ca/london-east-real-estate/600-talbot-street/103
-"206-45 Pond Mills Road, London South, ON",London South,South J,Condo,309500,https://www.zolo.ca/london-south-real-estate/45-pond-mills-road/206
-"30-3361 David Milne Way, London South, ON",London South,South W,Townhouse,498230,https://www.zolo.ca/london-south-real-estate/3361-david-milne-way/30
-"909-95 Base Line Road W, London South, ON",London South,South E,Condo,299900,https://www.zolo.ca/london-south-real-estate/95-base-line-road-west/909
-"414 Flanders Row, London East, ON",London East,East C,Townhouse,399900,https://www.zolo.ca/london-east-real-estate/414-flanders-row
-"272 Wilkins Street, London South, ON",London South,South R,House,699000,https://www.zolo.ca/london-south-real-estate/272-wilkins-street
-"1005-330 Ridout Street N, London East, ON",London East,East K,Condo,399888,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/1005
-"90 Glenburnie Crescent, London North, ON",London North,North H,House,799900,https://www.zolo.ca/london-north-real-estate/90-glenburnie-crescent
-"26-631 Cranbrook Road, London South, ON",London South,South L,Townhouse,379000,https://www.zolo.ca/london-south-real-estate/631-cranbrook-road/26
-"17-1199 Reardon Boulevard, London South, ON",London South,South U,Townhouse,429900,https://www.zolo.ca/london-south-real-estate/1199-reardon-boulevard/17
-"40-311 Vesta Road, London East, ON",London East,East A,Townhouse,336900,https://www.zolo.ca/london-east-real-estate/311-vesta-road/40
-"1127 Trafalgar Street, London East, ON",London East,East M,House,349900,https://www.zolo.ca/london-east-real-estate/1127-trafalgar-street
-"226-230 Clarke Road, London East, ON",London East,East I,Townhouse,399000,https://www.zolo.ca/london-east-real-estate/230-clarke-road/226
-"101-1830 Dumont Street, London East, ON",London East,East H,Condo,229900,https://www.zolo.ca/london-east-real-estate/1830-dumont-street/101
+﻿address,district,neighbourhood,property_type,bedrooms,house_age_years,distance_to_western_km,price,listing_url
+"82-1600 Culver Drive, London East, ON",London East,East H,Townhouse,3.0,40.0,7.02,299900,https://www.zolo.ca/london-east-real-estate/1600-culver-drive/82
+"205-460 Wellington Street, London East, ON",London East,East F,Condo,2.0,100.0,3.41,325000,https://www.zolo.ca/london-east-real-estate/460-wellington-street/205
+"21 Agincourt Place, London South, ON",London South,South T,House,2.0,75.0,8.28,699900,https://www.zolo.ca/london-south-real-estate/21-agincourt-place
+"48-126 Belmont Drive, London South, ON",London South,South O,Townhouse,3.0,,7.08,399900,https://www.zolo.ca/london-south-real-estate/126-belmont-drive/48
+"56 Forbes Street, London South, ON",London South,South E,House,3.0,100.0,4.8,469900,https://www.zolo.ca/london-south-real-estate/56-forbes-street
+"210-727 Deveron Crescent, London South, ON",London South,South T,Condo,3.0,40.0,8.33,295000,https://www.zolo.ca/london-south-real-estate/727-deveron-crescent/210
+"103-600 Talbot Street, London East, ON",London East,East F,Condo,2.0,40.0,2.77,375000,https://www.zolo.ca/london-east-real-estate/600-talbot-street/103
+"617-480 Callaway Road, London North, ON",London North,North R,Condo,2.0,,3.61,549000,https://www.zolo.ca/london-north-real-estate/480-callaway-road/617
+"1366 Kains Woods Terrace, London South, ON",London South,South A,House,4.0,,7.64,969900,https://www.zolo.ca/london-south-real-estate/1366-kains-woods-terrace
+"224 Culver Crescent, London East, ON",London East,East H,House,4.0,,7.36,494900,https://www.zolo.ca/london-east-real-estate/224-culver-crescent
+"307 Tweedsmuir Avenue, London East, ON",London East,East O,House,5.0,,8.41,499999,https://www.zolo.ca/london-east-real-estate/307-tweedsmuir-avenue
+"2304-330 Ridout Street N, London East, ON",London East,East K,Condo,2.0,,3.67,599900,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/2304
+"53 Cliftonvale Avenue, London South, ON",London South,South E,House,4.0,75.0,4.69,519000,https://www.zolo.ca/london-south-real-estate/53-cliftonvale-avenue
+"55-144 Conway Drive, London South, ON",London South,South X,Condo,2.0,,8.84,259900,https://www.zolo.ca/london-south-real-estate/144-conway-drive/55
+"1506-1105 Jalna Boulevard, London South, ON",London South,South X,Condo,1.0,,9.31,216995,https://www.zolo.ca/london-south-real-estate/1105-jalna-boulevard/1506
+"24-2615 Colonel Talbot Road, London South, ON",London South,South K,House,4.0,23.0,8.73,869900,https://www.zolo.ca/london-south-real-estate/2615-colonel-talbot-road/24
+"134 Sterling Street, London East, ON",London East,East C,House,3.0,100.0,3.88,464900,https://www.zolo.ca/london-east-real-estate/134-sterling-street
+"95 Gerald Crescent, London South, ON",London South,South J,House,3.0,,7.54,624900,https://www.zolo.ca/london-south-real-estate/95-gerald-crescent
+"301-521 Riverside Drive W, London North, ON",London North,North P,Condo,2.0,40.0,4.12,349900,https://www.zolo.ca/london-north-real-estate/521-riverside-drive-west/301
+"872 Lovett Street, London East, ON",London East,East L,House,3.0,,5.36,424900,https://www.zolo.ca/london-east-real-estate/872-lovett-street
+"208-260 Villagewalk Boulevard, London North, ON",London North,North R,Condo,2.0,,3.41,769000,https://www.zolo.ca/london-north-real-estate/260-villagewalk-boulevard/208
+"24 Boullee Street, London East, ON",London East,East F,Townhouse,3.0,,4.14,329999,https://www.zolo.ca/london-east-real-estate/24-boullee-street
+"12-535 Topping Lane, London South, ON",London South,South N,Townhouse,3.0,,5.79,484900,https://www.zolo.ca/london-south-real-estate/535-topping-lane/12
+"38 Elliott Street, London East, ON",London East,East C,Townhouse,2.0,75.0,3.38,449900,https://www.zolo.ca/london-east-real-estate/38-elliott-street
+"24-65 Fiddlers Green Road, London North, ON",London North,North P,Townhouse,2.0,40.0,5.37,649000,https://www.zolo.ca/london-north-real-estate/65-fiddlers-green-road/24
+"6-484 Third Street, London East, ON",London East,East H,Townhouse,3.0,40.0,7.15,379900,https://www.zolo.ca/london-east-real-estate/484-third-street/6
+"67-1990 Wavell Street, London East, ON",London East,East I,Townhouse,3.0,40.0,8.66,399900,https://www.zolo.ca/london-east-real-estate/1990-wavell-street/67
+"215-480 Callaway Road, London North, ON",London North,North R,Condo,2.0,2.0,3.61,549500,https://www.zolo.ca/london-north-real-estate/480-callaway-road/215
+"400-1705 Fiddlehead Place, London North, ON",London North,North R,Condo,1.0,8.0,2.12,499900,https://www.zolo.ca/london-north-real-estate/1705-fiddlehead-place/400
+"204-1975 Fountain Grass Drive, London South, ON",London South,South B,Condo,2.0,0.0,9.22,644248,https://www.zolo.ca/london-south-real-estate/1975-fountain-grass-drive/204
+"75 Huxley Street, London South, ON",London South,South E,Condo,1.0,,5.83,277777,https://www.zolo.ca/london-south-real-estate/75-huxley-street
+"83 Bracebridge Court, London North, ON",London North,North G,House,4.0,40.0,1.86,849900,https://www.zolo.ca/london-north-real-estate/83-bracebridge-court
+"201-320 Sugarcreek Trail, London North, ON",London North,North N,Condo,3.0,13.0,3.1,445000,https://www.zolo.ca/london-north-real-estate/320-sugarcreek-trail/201
+"403-127 Belmont Drive, London South, ON",London South,South O,Condo,3.0,,6.95,375000,https://www.zolo.ca/london-south-real-estate/127-belmont-drive/403
+"1134 Manchester Road, London North, ON",London North,North L,House,4.0,,5.26,949900,https://www.zolo.ca/london-north-real-estate/1134-manchester-road
+"1620 Farmbrook Road, London East, ON",London East,East P,House,5.0,,9.11,699000,https://www.zolo.ca/london-east-real-estate/1620-farmbrook-road
+"86-9 Ailsa Place, London South, ON",London South,South J,Townhouse,4.0,40.0,7.0,414900,https://www.zolo.ca/london-south-real-estate/9-ailsa-place/86
+"1129 South Wenige Drive, London North, ON",London North,North C,House,3.0,23.0,4.46,725000,https://www.zolo.ca/london-north-real-estate/1129-south-wenige-drive
+"1086 Shelborne Place S, London South, ON",London South,South J,House,5.0,,7.67,749000,https://www.zolo.ca/london-south-real-estate/1086-shelborne-place-south
+"550 Elizabeth Street, London East, ON",London East,East G,House,2.0,,3.94,485000,https://www.zolo.ca/london-east-real-estate/550-elizabeth-street
+"39 Shepherd Avenue, London East, ON",London East,East H,House,3.0,40.0,7.36,649900,https://www.zolo.ca/london-east-real-estate/39-shepherd-avenue
+"55 Ada Street, London South, ON",London South,South I,House,3.0,75.0,5.64,469000,https://www.zolo.ca/london-south-real-estate/55-ada-street
+"25-9 Ailsa Place, London South, ON",London South,South J,Townhouse,3.0,,7.0,399900,https://www.zolo.ca/london-south-real-estate/9-ailsa-place/25
+"49 Euclid Avenue, London South, ON",London South,South F,House,3.0,,4.07,549000,https://www.zolo.ca/london-south-real-estate/49-euclid-avenue
+"308-600 Talbot Street, London East, ON",London East,East F,Condo,2.0,40.0,2.77,269900,https://www.zolo.ca/london-east-real-estate/600-talbot-street/308
+"21-1110 Meadowlark Ridge, London South, ON",London South,South U,Townhouse,3.0,8.0,9.42,499900,https://www.zolo.ca/london-south-real-estate/1110-meadowlark-ridge/21
+"36 Grosvenor Street, London East, ON",London East,East B,House,5.0,100.0,1.78,2100000,https://www.zolo.ca/london-east-real-estate/36-grosvenor-street
+"115-1680 Evans Boulevard, London South, ON",London South,South U,Townhouse,3.0,,9.09,377184,https://www.zolo.ca/london-south-real-estate/1680-evans-boulevard/115
+"409-1705 Fiddlehead Place S, London North, ON",London North,North R,Condo,2.0,8.0,2.12,799000,https://www.zolo.ca/london-north-real-estate/1705-fiddlehead-place-south/409
+"9 Strathcona Drive, London East, ON",London East,East O,House,4.0,75.0,8.09,559400,https://www.zolo.ca/london-east-real-estate/9-strathcona-drive
+"602-521 Riverside Drive, London North, ON",London North,North P,Condo,2.0,40.0,4.12,344900,https://www.zolo.ca/london-north-real-estate/521-riverside-drive/602
+"315 Pall Mall Street, London East, ON",London East,East F,House,3.0,100.0,2.81,699900,https://www.zolo.ca/london-east-real-estate/315-pall-mall-street
+"506-1105 Jalna Boulevard, London South, ON",London South,South X,Condo,1.0,40.0,9.31,219500,https://www.zolo.ca/london-south-real-estate/1105-jalna-boulevard/506
+"204-240 Villagewalk Boulevard, London North, ON",London North,North R,Condo,3.0,,3.39,799900,https://www.zolo.ca/london-north-real-estate/240-villagewalk-boulevard/204
+"33-474 Southdale Road E, London South, ON",London South,South Q,Townhouse,3.0,,7.94,347500,https://www.zolo.ca/london-south-real-estate/474-southdale-road-east/33
+"1564 Nairn Avenue, London East, ON",London East,East D,Townhouse,3.0,,6.83,410000,https://www.zolo.ca/london-east-real-estate/1564-nairn-avenue
+"7006 Diane Crescent, London South, ON",London South,South V,House,3.0,,10.61,949900,https://www.zolo.ca/london-south-real-estate/7006-diane-crescent
+"5-1443 Commissioners Road W, London South, ON",London South,South B,Townhouse,2.0,,7.58,624900,https://www.zolo.ca/london-south-real-estate/1443-commissioners-road-west/5
+"109-729 Deveron Crescent, London South, ON",London South,South T,Condo,3.0,40.0,8.39,269900,https://www.zolo.ca/london-south-real-estate/729-deveron-crescent/109
+"100-51 Sholto Drive, London South, ON",London South,South X,Townhouse,3.0,40.0,10.06,374900,https://www.zolo.ca/london-south-real-estate/51-sholto-drive/100
+"21-30 Clarendon Crescent, London South, ON",London South,South P,Townhouse,3.0,,7.31,440000,https://www.zolo.ca/london-south-real-estate/30-clarendon-crescent/21
+"816 Buckeye Lane, London North, ON",London North,North E,Townhouse,3.0,0.0,4.56,499999,https://www.zolo.ca/london-north-real-estate/816-buckeye-lane
+"485 English Street, London East, ON",London East,East G,Townhouse,4.0,100.0,4.19,589900,https://www.zolo.ca/london-east-real-estate/485-english-street
+"401-280 Queens Avenue S, London East, ON",London East,East F,Condo,2.0,100.0,3.44,448000,https://www.zolo.ca/london-east-real-estate/280-queens-avenue-south/401
+"398 Victoria Street, London East, ON",London East,East B,House,3.0,,2.01,779900,https://www.zolo.ca/london-east-real-estate/398-victoria-street
+"908-250 Pall Mall Street, London East, ON",London East,East F,Condo,2.0,23.0,2.65,489900,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/908
+"557 Ferndale Court, London South, ON",London South,South Q,House,4.0,40.0,7.65,524900,https://www.zolo.ca/london-south-real-estate/557-ferndale-court
+"274 Tamblyn Drive, London North, ON",London North,North K,House,4.0,75.0,1.58,749000,https://www.zolo.ca/london-north-real-estate/274-tamblyn-drive
+"56 Classic Crescent, London East, ON",London East,East P,House,3.0,40.0,9.33,625000,https://www.zolo.ca/london-east-real-estate/56-classic-crescent
+"106-144 Conway Drive, London South, ON",London South,South X,Condo,2.0,,8.84,279900,https://www.zolo.ca/london-south-real-estate/144-conway-drive/106
+"106 Northumberland Road, London North, ON",London North,North L,House,4.0,,5.65,1399900,https://www.zolo.ca/london-north-real-estate/106-northumberland-road
+"1099 Byron Baseline Road, London South, ON",London South,South K,Townhouse,4.0,,7.29,489900,https://www.zolo.ca/london-south-real-estate/1099-byron-baseline-road
+"7-145 North Centre Road, London North, ON",London North,North B,Townhouse,4.0,,2.35,519000,https://www.zolo.ca/london-north-real-estate/7-145-north-centre-road
+"176 Renfro Crescent, London South, ON",London South,South J,House,3.0,75.0,6.92,499900,https://www.zolo.ca/london-south-real-estate/176-renfro-crescent
+"42 Applegreen Grove, London South, ON",London South,South N,House,4.0,75.0,6.17,599900,https://www.zolo.ca/london-south-real-estate/42-applegreen-grove
+"282 Fleming Drive, London East, ON",London East,East D,House,4.0,,6.43,469900,https://www.zolo.ca/london-east-real-estate/282-fleming-drive
+"20 Meadowview Road, London South, ON",London South,South O,House,3.0,40.0,6.13,689900,https://www.zolo.ca/london-south-real-estate/20-meadowview-road
+"107 Aponi Crescent, London East, ON",London East,East D,House,3.0,75.0,6.59,479000,https://www.zolo.ca/london-east-real-estate/107-aponi-crescent
+"17-1199 Reardon Boulevard, London South, ON",London South,South U,Townhouse,3.0,,9.88,429900,https://www.zolo.ca/london-south-real-estate/1199-reardon-boulevard/17
+"127 Acorn Crescent, London North, ON",London North,North F,House,4.0,40.0,3.0,649000,https://www.zolo.ca/london-north-real-estate/127-acorn-crescent
+"7-1059 Whetherfield Street, London North, ON",London North,North M,Townhouse,3.0,23.0,3.87,449900,https://www.zolo.ca/london-north-real-estate/1059-whetherfield-street/7
+"1210-45 Pond Mills Road, London South, ON",London South,South J,Condo,2.0,,6.94,309900,https://www.zolo.ca/london-south-real-estate/45-pond-mills-road/1210
+"3-720 Wonderland Road S, London South, ON",London South,South N,Townhouse,3.0,75.0,6.43,324900,https://www.zolo.ca/london-south-real-estate/720-wonderland-road-south/3
+"226-2228 Trafalgar Street, London East, ON",London East,East I,Condo,1.0,40.0,10.05,279900,https://www.zolo.ca/london-east-real-estate/2228-trafalgar-street/226
+"140 Hartson Road, London North, ON",London North,North O,House,4.0,40.0,6.22,795000,https://www.zolo.ca/london-north-real-estate/140-hartson-road
+"97-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,3.0,40.0,9.09,289900,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/97
+"724 Brant Street, London East, ON",London East,East C,House,5.0,75.0,3.41,599000,https://www.zolo.ca/london-east-real-estate/724-brant-street
+"414 Flanders Row, London East, ON",London East,East C,Townhouse,4.0,,4.93,399900,https://www.zolo.ca/london-east-real-estate/414-flanders-row
+"3-745 Chelton Road, London, ON",London,South U,Townhouse,3.0,5.0,10.31,510000,https://www.zolo.ca/london-real-estate/745-chelton-road/3
+"1276 Shore Road, London South, ON",London South,South A,House,5.0,,7.62,1099900,https://www.zolo.ca/london-south-real-estate/1276-shore-road
+"205-744 Wonderland Road S, London South, ON",London South,South N,Condo,2.0,,6.59,335900,https://www.zolo.ca/london-south-real-estate/744-wonderland-road-south/205
+"118 Deer Valley Crescent, London South, ON",London South,South N,House,6.0,,7.15,769000,https://www.zolo.ca/london-south-real-estate/118-deer-valley-crescent
+"105-1975 Fountain Grass Drive, London South, ON",London South,South B,Condo,2.0,2.0,9.22,608900,https://www.zolo.ca/london-south-real-estate/1975-fountain-grass-drive/105
+"570 Pall Mall Street, London East, ON",London East,East F,House,4.0,,3.28,488900,https://www.zolo.ca/london-east-real-estate/570-pall-mall-street
+"277 Blackacres Boulevard, London North, ON",London North,North F,House,4.0,,3.2,675000,https://www.zolo.ca/london-north-real-estate/277-blackacres-boulevard
+"120 Monmore Road, London North, ON",London North,North F,Townhouse,3.0,40.0,3.34,309900,https://www.zolo.ca/london-north-real-estate/120-monmore-road
+"52-530 Gatestone Road, London South, ON",London South,South U,Townhouse,4.0,2.0,10.23,525000,https://www.zolo.ca/london-south-real-estate/530-gatestone-road/52
+"903-549 Ridout Street N, London East, ON",London East,East F,Condo,2.0,40.0,2.96,354900,https://www.zolo.ca/london-east-real-estate/549-ridout-street-north/903
+"1105-76 Base Line Road W, London South, ON",London South,South E,Condo,1.0,,5.59,244900,https://www.zolo.ca/london-south-real-estate/76-base-line-road-west/1105
+"78-141 Condor Court, London East, ON",London East,East P,Townhouse,3.0,40.0,8.18,417000,https://www.zolo.ca/london-east-real-estate/141-condor-court/78
+"604-480 Callaway Road, London North, ON",London North,North R,Condo,2.0,2.0,3.6,459900,https://www.zolo.ca/london-north-real-estate/480-callaway-road/604
+"1505-380 King Street, London East, ON",London East,East K,Condo,2.0,40.0,3.84,209900,https://www.zolo.ca/london-east-real-estate/380-king-street/1505
+"29-253 Taylor Street, London East, ON",London East,East C,Townhouse,4.0,,2.78,359000,https://www.zolo.ca/london-east-real-estate/253-taylor-street/29
+"414-1200 Commissioners Road W, London South, ON",London South,South B,Condo,2.0,,7.25,948000,https://www.zolo.ca/london-south-real-estate/1200-commissioners-road-west/414
+"102 St Bees Court, London North, ON",London North,North A,House,4.0,40.0,1.27,1149900,https://www.zolo.ca/london-north-real-estate/102-st-bees-court
+"615 Deveron Crescent, London South, ON",London South,South T,Townhouse,3.0,40.0,8.72,489900,https://www.zolo.ca/london-south-real-estate/615-deveron-crescent
+"9-181 Skyline Avenue, London North, ON",London North,North B,House,3.0,23.0,3.14,879000,https://www.zolo.ca/london-north-real-estate/181-skyline-avenue/9
+"1606-1235 Richmond Street, London East, ON",London East,East B,Condo,2.0,13.0,0.74,468900,https://www.zolo.ca/london-east-real-estate/1235-richmond-street/1606
+"1505-1105 Jalna Boulevard, London South, ON",London South,South X,Condo,1.0,40.0,9.31,189900,https://www.zolo.ca/london-south-real-estate/1105-jalna-boulevard/1505
+"44-355 Sandringham Crescent, London South, ON",London South,South R,Townhouse,3.0,,7.71,334900,https://www.zolo.ca/london-south-real-estate/355-sandringham-crescent/44
+"1604-323 Colborne Street, London East, ON",London East,East K,Condo,2.0,40.0,3.97,259900,https://www.zolo.ca/london-east-real-estate/323-colborne-street/1604
+"3-130 Windsor Crescent, London South, ON",London South,South F,Townhouse,3.0,75.0,5.54,730000,https://www.zolo.ca/london-south-real-estate/130-windsor-crescent/3
+"25-190 Fleming Drive, London East, ON",London East,East D,Townhouse,5.0,23.0,6.12,364000,https://www.zolo.ca/london-east-real-estate/190-fleming-drive/25
+"104-1500 Richmond Street, London North, ON",London North,North G,Townhouse,2.0,40.0,1.05,512500,https://www.zolo.ca/london-north-real-estate/1500-richmond-street/104
+"52-1600 Mickleborough Drive, London North, ON",London North,North I,Townhouse,4.0,23.0,3.95,432888,https://www.zolo.ca/london-north-real-estate/1600-mickleborough-drive/52
+"143-166 Southdale Road W, London South, ON",London South,South O,Townhouse,3.0,,7.67,324900,https://www.zolo.ca/london-south-real-estate/166-southdale-road-west/143
+"103 Mcclary Avenue, London South, ON",London South,South F,Townhouse,4.0,,5.26,499900,https://www.zolo.ca/london-south-real-estate/103-mcclary-avenue
+"27 Dengate Crescent, London East, ON",London East,East P,House,2.0,,8.95,639000,https://www.zolo.ca/london-east-real-estate/27-dengate-crescent
+"205-435 Colborne Street, London East, ON",London East,East F,Condo,2.0,,3.68,375000,https://www.zolo.ca/london-east-real-estate/435-colborne-street/205
+"532-538 Dundas Street, London East, ON",London East,East F,Townhouse,,,3.99,1699000,https://www.zolo.ca/london-east-real-estate/532-538-dundas-street
+"403-1705 Fiddlehead Place, London North, ON",London North,North R,Condo,2.0,8.0,2.12,775000,https://www.zolo.ca/london-north-real-estate/1705-fiddlehead-place/403
+"304-695 Richmond Street, London East, ON",London East,East F,Condo,1.0,40.0,2.48,339900,https://www.zolo.ca/london-east-real-estate/695-richmond-street/304
+"6901 Heathwoods Avenue, London South, ON",London South,South V,Townhouse,3.0,0.0,10.86,594800,https://www.zolo.ca/london-south-real-estate/6901-heathwoods-avenue
+"402-626 First Street, London East, ON",London East,East H,Condo,3.0,,6.1,349900,https://www.zolo.ca/london-east-real-estate/626-first-street/402
+"28-1478 Adelaide Street N, London North, ON",London North,North H,Townhouse,4.0,,3.03,529900,https://www.zolo.ca/london-north-real-estate/1478-adelaide-street-north/28
+"607-549 Ridout Street, London East, ON",London East,East F,Condo,2.0,40.0,2.96,339900,https://www.zolo.ca/london-east-real-estate/549-ridout-street/607
+"2503-505 Talbot Street, London East, ON",London East,East F,Condo,3.0,,3.08,639900,https://www.zolo.ca/london-east-real-estate/505-talbot-street/2503
+"525 Grosvenor Street, London East, ON",London East,East B,House,6.0,,2.67,649900,https://www.zolo.ca/london-east-real-estate/525-grosvenor-street
+"602-695 Richmond Street, London East, ON",London East,East F,Condo,2.0,40.0,2.48,359900,https://www.zolo.ca/london-east-real-estate/695-richmond-street/602
+"32-499 Sophia Crescent, London North, ON",London North,North I,Townhouse,3.0,8.0,4.36,515900,https://www.zolo.ca/london-north-real-estate/499-sophia-crescent/32
+"202-600 Grenfell Drive, London North, ON",London North,North C,Condo,2.0,,3.53,319900,https://www.zolo.ca/london-north-real-estate/600-grenfell-drive/202
+"823 Cedarpark Way, London North, ON",London North,North D,House,4.0,10.0,6.38,799900,https://www.zolo.ca/london-north-real-estate/823-cedarpark-way
+"719 Elias Street, London East, ON",London East,East G,Townhouse,4.0,100.0,3.9,375000,https://www.zolo.ca/london-east-real-estate/719-elias-street
+"2169 Jack Nash Drive, London South, ON",London South,South A,House,3.0,,7.23,829900,https://www.zolo.ca/london-south-real-estate/2169-jack-nash-drive
+"6-675 Wonderland Road S, London South, ON",London South,South M,Condo,1.0,40.0,6.5,234900,https://www.zolo.ca/london-south-real-estate/675-wonderland-road-south/6
+"20-2089 Beaverbrook Avenue, London North, ON",London North,North M,Townhouse,4.0,,4.09,499900,https://www.zolo.ca/london-north-real-estate/2089-beaverbrook-avenue/20
+"203-1030 Coronation Drive, London North, ON",London North,North I,Condo,2.0,,4.63,449900,https://www.zolo.ca/london-north-real-estate/1030-coronation-drive/203
+"1 & 2-737 William Street N, London East, ON",London East,East F,Townhouse,3.0,,2.99,559900,https://www.zolo.ca/london-east-real-estate/737-william-street-north/1--2
+"52 Birchmount Walk, London South, ON",London South,South L,House,4.0,40.0,7.97,1499900,https://www.zolo.ca/london-south-real-estate/52-birchmount-walk
+"302-563 Mornington Avenue, London East, ON",London East,East G,Condo,2.0,75.0,5.08,255000,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/302
+"3046 Heardcreek Trail, London North, ON",London North,North S,House,3.0,,5.06,799000,https://www.zolo.ca/london-north-real-estate/3046-heardcreek-trail
+"109-320 Sugarcreek Trail, London North, ON",London North,North N,Condo,2.0,,3.1,374900,https://www.zolo.ca/london-north-real-estate/320-sugarcreek-trail/109
+"318 Admiral Drive, London East, ON",London East,East A,Townhouse,3.0,,9.17,499000,https://www.zolo.ca/london-east-real-estate/318-admiral-drive
+"9-1853 Blackwater Road, London North, ON",London North,North C,Townhouse,2.0,,3.88,549900,https://www.zolo.ca/london-north-real-estate/1853-blackwater-road/9
+"21-861 Shelborne Street, London South, ON",London South,South J,Townhouse,2.0,23.0,7.71,524900,https://www.zolo.ca/london-south-real-estate/861-shelborne-street/21
+"2334 Meadowgate Boulevard, London South, ON",London South,South U,House,4.0,,9.28,734900,https://www.zolo.ca/london-south-real-estate/2334-meadowgate-boulevard
+"21-190 Fleming Drive, London East, ON",London East,East D,Townhouse,5.0,,6.12,349900,https://www.zolo.ca/london-east-real-estate/190-fleming-drive/21
+"3183 Pincombe Drive, London South, ON",London South,South W,House,3.0,23.0,8.1,799999,https://www.zolo.ca/london-south-real-estate/3183-pincombe-drive
+"159 Montebello Drive, London East, ON",London East,East O,House,5.0,,8.48,779999,https://www.zolo.ca/london-east-real-estate/159-montebello-drive
+"109-1680 Evans Boulevard, London South, ON",London South,South U,Townhouse,3.0,,9.09,394836,https://www.zolo.ca/london-south-real-estate/1680-evans-boulevard/109
+"111-1680 Evans Boulevard, London South, ON",London South,South U,Townhouse,3.0,,9.09,416890,https://www.zolo.ca/london-south-real-estate/1680-evans-boulevard/111
+"26-631 Cranbrook Road, London South, ON",London South,South L,Townhouse,3.0,,7.36,379000,https://www.zolo.ca/london-south-real-estate/631-cranbrook-road/26
+"1625 Valhalla Street, London North, ON",London North,North F,House,2.0,10.0,4.1,629900,https://www.zolo.ca/london-north-real-estate/1625-valhalla-street
+"501-340 Sugarcreek Trail, London North, ON",London North,North N,Condo,2.0,,3.15,465000,https://www.zolo.ca/london-north-real-estate/340-sugarcreek-trail/501
+"3128 Turner Crescent, London South, ON",London South,South U,House,5.0,2.0,10.72,879999,https://www.zolo.ca/london-south-real-estate/3128-turner-crescent
+"58 Harcroft Crescent, London South, ON",London South,South Q,House,3.0,,7.4,499900,https://www.zolo.ca/london-south-real-estate/58-harcroft-crescent
+"1236 Southdale Road E, London South, ON",London South,South S,Townhouse,6.0,0.0,9.31,899900,https://www.zolo.ca/london-south-real-estate/1236-southdale-road-east
+"713 Thistlewood Drive, London North, ON",London North,North C,House,3.0,23.0,4.38,749900,https://www.zolo.ca/london-north-real-estate/713-thistlewood-drive
+"56-595 Third Street, London East, ON",London East,East H,Townhouse,3.0,,6.68,299900,https://www.zolo.ca/london-east-real-estate/595-third-street/56
+"404-570 William Street, London East, ON",London East,East F,Condo,2.0,,3.53,300000,https://www.zolo.ca/london-east-real-estate/570-william-street/404
+"51 Cherish Court, London South, ON",London South,South C,House,4.0,40.0,5.71,799900,https://www.zolo.ca/london-south-real-estate/51-cherish-court
+"24-5 Cadeau Terrace, London, ON",London,South B,Townhouse,3.0,,7.81,549900,https://www.zolo.ca/london-real-estate/5-cadeau-terrace/24
+"1705-389 Dundas Street W, London East, ON",London East,East K,Condo,1.0,40.0,3.78,195555,https://www.zolo.ca/london-east-real-estate/389-dundas-street-west/1705
+"2149 Tribalwood Street N, London North, ON",London North,North E,House,3.0,10.0,4.14,674900,https://www.zolo.ca/london-north-real-estate/2149-tribalwood-street-north
+"62-1220 Royal York Road, London North, ON",London North,North L,Townhouse,3.0,75.0,5.41,439900,https://www.zolo.ca/london-north-real-estate/1220-royal-york-road/62
+"7-1755 Louise Boulevard, London North, ON",London North,North R,Townhouse,2.0,23.0,2.21,611000,https://www.zolo.ca/london-north-real-estate/1755-louise-boulevard/7
+"1303-250 Pall Mall Street, London East, ON",London East,East F,Condo,2.0,,2.65,549900,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/1303
+"1129 Sunningdale Road E, London North, ON",London North,North C,House,4.0,,4.82,789900,https://www.zolo.ca/london-north-real-estate/1129-sunningdale-road-east
+"1402 Hastings Drive, London North, ON",London North,North G,House,3.0,75.0,1.97,739999,https://www.zolo.ca/london-north-real-estate/1402-hastings-drive
+"937 Lennon Way, London North, ON",London North,North E,House,6.0,10.0,4.54,959900,https://www.zolo.ca/london-north-real-estate/937-lennon-way
+"809-127 Belmont Drive, London South, ON",London South,South O,Condo,2.0,40.0,6.95,349900,https://www.zolo.ca/london-south-real-estate/127-belmont-drive/809
+"809-505 Talbot Street, London East, ON",London East,East F,Condo,2.0,,3.06,659900,https://www.zolo.ca/london-east-real-estate/505-talbot-street/809
+"567 Fieldgate Circle, London East, ON",London East,East I,House,3.0,23.0,9.47,499999,https://www.zolo.ca/london-east-real-estate/567-fieldgate-circle
+"708-563 Mornington Avenue, London East, ON",London East,East G,Condo,2.0,,5.08,249900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/708
+"1004-563 Mornington Avenue, London East, ON",London East,East G,Condo,2.0,,5.08,159900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/1004
+"1042 Melsetter Way, London North, ON",London North,North S,House,6.0,10.0,3.9,1398000,https://www.zolo.ca/london-north-real-estate/1042-melsetter-way
+"404-1510 Richmond Street, London North, ON",London North,North G,Condo,2.0,,1.14,399900,https://www.zolo.ca/london-north-real-estate/1510-richmond-street/404
+"302-323 Colborne Street, London East, ON",London East,East K,Condo,1.0,40.0,3.97,249900,https://www.zolo.ca/london-east-real-estate/323-colborne-street/302
+"904 Dame Street, London East, ON",London East,East L,House,3.0,,5.52,409900,https://www.zolo.ca/london-east-real-estate/904-dame-street
+"3074 Turner Crescent, London South, ON",London South,South U,House,3.0,0.0,10.66,799900,https://www.zolo.ca/london-south-real-estate/3074-turner-crescent
+"21-4067 Colonel Talbot Road, London South, ON",London South,South V,Townhouse,3.0,13.0,11.0,679000,https://www.zolo.ca/london-south-real-estate/4067-colonel-talbot-road/21
+"46-99 Edgevalley Road, London East, ON",London East,East A,Townhouse,2.0,40.0,4.88,474900,https://www.zolo.ca/london-east-real-estate/99-edgevalley-road/46
+"2244 Red Thorne Avenue, London South, ON",London South,South V,House,7.0,2.0,10.09,1289000,https://www.zolo.ca/london-south-real-estate/2244-red-thorne-avenue
+"111-731 Deveron Crescent, London South, ON",London South,South T,Condo,2.0,,8.31,195000,https://www.zolo.ca/london-south-real-estate/731-deveron-crescent/111
+"1301 Michael Circle, London East, ON",London East,East D,Townhouse,4.0,10.0,5.49,485000,https://www.zolo.ca/london-east-real-estate/1301-michael-circle
+"7 Northcrest Drive, London North, ON",London North,North B,House,3.0,75.0,2.89,999000,https://www.zolo.ca/london-north-real-estate/7-northcrest-drive
+"212 Rathowen Street, London, ON",London,North N,House,4.0,75.0,2.27,599900,https://www.zolo.ca/london-real-estate/212-rathowen-street
+"72-1850 Beaverbrook Avenue, London North, ON",London North,North M,Townhouse,3.0,13.0,3.94,549888,https://www.zolo.ca/london-north-real-estate/1850-beaverbrook-avenue/72
+"87-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,3.0,,9.09,285000,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/87
+"944 Collins Drive, London South, ON",London South,South L,House,4.0,23.0,8.38,1229900,https://www.zolo.ca/london-south-real-estate/944-collins-drive
+"102 Honeysuckle Crescent, London East, ON",London East,East A,House,3.0,75.0,4.62,449900,https://www.zolo.ca/london-east-real-estate/102-honeysuckle-crescent
+"2 Surrey Crescent, London South, ON",London South,South Y,House,4.0,,9.69,499900,https://www.zolo.ca/london-south-real-estate/2-surrey-crescent
+"1103-563 Mornington Avenue, London East, ON",London East,East G,Condo,1.0,,5.08,169900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/1103
+"57 Langarth Street E, London South, ON",London South,South F,House,2.0,75.0,5.14,619000,https://www.zolo.ca/london-south-real-estate/57-langarth-street-east
+"262 Hesselman Crescent, London South, ON",London South,South U,House,4.0,0.0,9.66,799900,https://www.zolo.ca/london-south-real-estate/262-hesselman-crescent
+"765 Homeview Road, London South, ON",London South,South Q,Townhouse,3.0,,7.47,510000,https://www.zolo.ca/london-south-real-estate/765-homeview-road
+"67-135 Belmont Drive, London South, ON",London South,South O,Townhouse,3.0,40.0,6.92,334900,https://www.zolo.ca/london-south-real-estate/135-belmont-drive/67
+"87-320 Ambleside Drive, London North, ON",London North,North A,Townhouse,4.0,23.0,2.3,569000,https://www.zolo.ca/london-north-real-estate/320-ambleside-drive/87
+"6893 Heathwoods Avenue, London South, ON",London South,South V,Townhouse,3.0,0.0,10.86,594800,https://www.zolo.ca/london-south-real-estate/6893-heathwoods-avenue
+"2 Lloyd Manor Crescent, London North, ON",London North,North M,House,3.0,75.0,4.99,669900,https://www.zolo.ca/london-north-real-estate/2-lloyd-manor-crescent
+"22 Denlaw Road, London North, ON",London North,North I,Townhouse,3.0,,2.77,479000,https://www.zolo.ca/london-north-real-estate/22-denlaw-road
+"1311-695 Richmond Street, London East, ON",London East,East F,Condo,2.0,40.0,2.48,379000,https://www.zolo.ca/london-east-real-estate/695-richmond-street/1311
+"214-300 Everglade Crescent, London North, ON",London North,North P,Condo,2.0,40.0,5.76,347500,https://www.zolo.ca/london-north-real-estate/300-everglade-crescent/214
+"108-480 Callaway Road, London North, ON",London North,North R,Condo,1.0,2.0,3.6,464900,https://www.zolo.ca/london-north-real-estate/480-callaway-road/108
+"501-583 Mornington Avenue, London East, ON",London East,East G,Condo,1.0,,5.11,174999,https://www.zolo.ca/london-east-real-estate/583-mornington-avenue/501
+"22 Rosamond Crescent, London South, ON",London South,South X,Townhouse,3.0,40.0,8.3,529900,https://www.zolo.ca/london-south-real-estate/22-rosamond-crescent
+"610-563 Mornington Avenue, London East, ON",London East,East G,Condo,2.0,75.0,5.08,269000,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/610
+"14 Archer Crescent, London South, ON",London South,South X,House,3.0,,9.84,399900,https://www.zolo.ca/london-south-real-estate/14-archer-crescent
+"508-563 Mornington Avenue, London East, ON",London East,East G,Condo,2.0,,5.08,239900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/508
+"619 Eden Avenue, London South, ON",London South,South R,House,3.0,,7.79,599900,https://www.zolo.ca/london-south-real-estate/619-eden-avenue
+"1001-1600 Adelaide Street N, London North, ON",London North,North C,Condo,2.0,40.0,3.64,348888,https://www.zolo.ca/london-north-real-estate/1600-adelaide-street-north/1001
+"26-770 Fanshawe Park Road, London North, ON",London North,North C,Townhouse,3.0,75.0,3.59,420000,https://www.zolo.ca/london-north-real-estate/770-fanshawe-park-road/26
+"25-475 Sandringham Crescent, London South, ON",London South,South R,Townhouse,3.0,,7.57,349900,https://www.zolo.ca/london-south-real-estate/475-sandringham-crescent/25
+"101-1830 Dumont Street, London East, ON",London East,East H,Condo,2.0,75.0,7.8,229900,https://www.zolo.ca/london-east-real-estate/1830-dumont-street/101
+"404-1103 Jalna Boulevard, London South, ON",London South,South X,Condo,1.0,,9.22,199900,https://www.zolo.ca/london-south-real-estate/1103-jalna-boulevard/404
+"7-638 Wharncliffe Road S, London South, ON",London South,South P,Townhouse,3.0,,6.61,514900,https://www.zolo.ca/london-south-real-estate/638-wharncliffe-road-south/7
+"12 Daybreak Drive, London East, ON",London East,East I,Townhouse,3.0,,9.87,799999,https://www.zolo.ca/london-east-real-estate/12-daybreak-drive
+"3091 Tokala Trail, London North, ON",London North,North S,House,6.0,,5.32,925000,https://www.zolo.ca/london-north-real-estate/3091-tokala-trail
+"584 Chelton Road, London South, ON",London South,South U,House,7.0,2.0,9.98,1099000,https://www.zolo.ca/london-south-real-estate/584-chelton-road
+"110-1830 Dumont Street, London East, ON",London East,East H,Condo,2.0,75.0,7.8,199900,https://www.zolo.ca/london-east-real-estate/1830-dumont-street/110
+"2 Oakwood Drive, London South, ON",London South,South B,House,4.0,75.0,8.41,859900,https://www.zolo.ca/london-south-real-estate/2-oakwood-drive
+"430 Magnolia Crescent, London East, ON",London East,East A,House,3.0,75.0,4.21,630000,https://www.zolo.ca/london-east-real-estate/430-magnolia-crescent
+"770 Cheapside Street, London East, ON",London East,East C,House,6.0,,3.52,699900,https://www.zolo.ca/london-east-real-estate/770-cheapside-street
+"5-1460 Limberlost Road, London North, ON",London North,North I,Townhouse,3.0,40.0,2.92,424900,https://www.zolo.ca/london-north-real-estate/1460-limberlost-road/5
+"#610-460 Callaway Road, London North, ON",London North,North R,Condo,2.0,2.0,3.64,549900,https://www.zolo.ca/london-north-real-estate/460-callaway-road/610
+"313-1560 Upper West Avenue, London South, ON",London South,South B,Condo,2.0,0.0,9.18,600000,https://www.zolo.ca/london-south-real-estate/1560-upper-west-avenue/313
+"12 Spencer Crescent, London North, ON",London North,North G,House,4.0,40.0,2.09,910000,https://www.zolo.ca/london-north-real-estate/12-spencer-crescent
+"30 Trapper Street, London East, ON",London East,East P,House,3.0,,9.72,599900,https://www.zolo.ca/london-east-real-estate/30-trapper-street
+"107 Rosamond Crescent, London South, ON",London South,South X,House,3.0,40.0,8.38,474900,https://www.zolo.ca/london-south-real-estate/107-rosamond-crescent
+"61 Godfrey Drive, London East, ON",London East,East D,House,5.0,,5.14,599900,https://www.zolo.ca/london-east-real-estate/61-godfrey-drive
+"60-151 Martinet Avenue, London East, ON",London East,East I,Townhouse,3.0,40.0,10.08,329900,https://www.zolo.ca/london-east-real-estate/151-martinet-avenue/60
+"28-474 Southdale Road E, London South, ON",London South,South Q,Townhouse,3.0,,7.94,389000,https://www.zolo.ca/london-south-real-estate/474-southdale-road-east/28
+"198 Arlington Crescent, London South, ON",London South,South J,House,4.0,75.0,6.96,519900,https://www.zolo.ca/london-south-real-estate/198-arlington-crescent
+"56-1595 Capri Crescent, London North, ON",London North,North S,Townhouse,3.0,2.0,5.62,495000,https://www.zolo.ca/london-north-real-estate/1595-capri-crescent/56
+"795 Catalpa Square, London North, ON",London North,North E,Townhouse,3.0,0.0,4.45,599999,https://www.zolo.ca/london-north-real-estate/795-catalpa-square
+"204-693 Windermere Road, London North, ON",London North,North G,Condo,2.0,40.0,2.07,399900,https://www.zolo.ca/london-north-real-estate/693-windermere-road/204
+"1237 Landor Street, London East, ON",London East,East C,House,5.0,,4.88,449000,https://www.zolo.ca/london-east-real-estate/1237-landor-street
+"4-2215 Callingham Drive, London North, ON",London North,North R,Townhouse,4.0,8.0,3.37,920000,https://www.zolo.ca/london-north-real-estate/2215-callingham-drive/4
+"172-1775 Culver Drive, London East, ON",London East,East H,Townhouse,3.0,40.0,7.41,374900,https://www.zolo.ca/london-east-real-estate/1775-culver-drive/172
+"60-700 Osgoode Drive, London South, ON",London South,South Y,Townhouse,4.0,40.0,8.87,409900,https://www.zolo.ca/london-south-real-estate/700-osgoode-drive/60
+"102-735 Deveron Crescent, London South, ON",London South,South T,Condo,2.0,,8.22,265000,https://www.zolo.ca/london-south-real-estate/735-deveron-crescent/102
+"2701-363 Colborne Street, London East, ON",London East,East K,Condo,2.0,40.0,3.92,274800,https://www.zolo.ca/london-east-real-estate/363-colborne-street/2701
+"212-563 Mornington Avenue, London East, ON",London East,East G,Condo,1.0,75.0,5.08,218900,https://www.zolo.ca/london-east-real-estate/563-mornington-avenue/212
+"235 Hamilton Road, London, ON",London,East L,Townhouse,11.0,138.0,4.87,769900,https://www.zolo.ca/london-real-estate/235-hamilton-road
+"220-1447 Huron Street, London East, ON",London East,East D,Condo,2.0,40.0,5.67,289900,https://www.zolo.ca/london-east-real-estate/1447-huron-street/220
+"105-333 Commissioners Road W, London South, ON",London South,South D,Condo,1.0,40.0,5.91,234900,https://www.zolo.ca/london-south-real-estate/333-commissioners-road-west/105
+"404-250 Pall Mall Street, London East, ON",London East,East F,Condo,2.0,,2.65,639900,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/404
+"26-600 Guiness Way, London North, ON",London North,North D,Townhouse,3.0,2.0,6.1,555610,https://www.zolo.ca/london-north-real-estate/600-guiness-way/26
+"8-50 Chapman Court, London North, ON",London North,North I,Townhouse,3.0,23.0,2.85,409900,https://www.zolo.ca/london-north-real-estate/50-chapman-court/8
+"2283 Tokala Trail, London North, ON",London North,North S,House,4.0,2.0,4.25,899900,https://www.zolo.ca/london-north-real-estate/2283-tokala-trail
+"49-110 Deveron Crescent, London South, ON",London South,South T,Townhouse,3.0,,8.87,349900,https://www.zolo.ca/london-south-real-estate/110-deveron-crescent/49
+"653 Steeplechase Drive, London South, ON",London South,South N,House,5.0,,6.78,699000,https://www.zolo.ca/london-south-real-estate/653-steeplechase-drive
+"302-122 Wortley Road, London South, ON",London South,South F,Condo,2.0,13.0,4.25,989900,https://www.zolo.ca/london-south-real-estate/122-wortley-road/302
+"108-1725 Ernest Avenue, London, ON",London,South X,Townhouse,4.0,42.0,8.3,359900,https://www.zolo.ca/london-real-estate/1725-ernest-avenue/108
+"107 Windsor Crescent, London South, ON",London South,South F,Townhouse,6.0,75.0,5.43,929900,https://www.zolo.ca/london-south-real-estate/107-windsor-crescent
+"43-99 Edgevalley Road, London East, ON",London East,East A,Townhouse,2.0,,4.88,489900,https://www.zolo.ca/london-east-real-estate/99-edgevalley-road/43
+"2590 Tokala Trail, London North, ON",London North,North S,House,6.0,,4.27,849000,https://www.zolo.ca/london-north-real-estate/2590-tokala-trail
+"213 Hawthorne Road, London North, ON",London North,North E,House,4.0,23.0,3.98,769900,https://www.zolo.ca/london-north-real-estate/213-hawthorne-road
+"51-678 Upper Queen Street, London South, ON",London South,South R,Townhouse,3.0,,7.55,372900,https://www.zolo.ca/london-south-real-estate/678-upper-queen-street/51
+"183-185 Vancouver Street, London East, ON",London East,East H,Townhouse,7.0,75.0,7.39,839900,https://www.zolo.ca/london-east-real-estate/183-185-vancouver-street
+"212-1447 Huron Street, London East, ON",London East,East D,Condo,2.0,40.0,5.67,244900,https://www.zolo.ca/london-east-real-estate/1447-huron-street/212
+"1762 Dewar Place, London North, ON",London North,North S,House,5.0,10.0,4.05,1059000,https://www.zolo.ca/london-north-real-estate/1762-dewar-place
+"501-1510 Richmond Street, London North, ON",London North,North G,Condo,2.0,,1.14,374900,https://www.zolo.ca/london-north-real-estate/1510-richmond-street/501
+"316 Ridgewood Crescent, London South, ON",London South,South D,House,4.0,75.0,4.64,474900,https://www.zolo.ca/london-south-real-estate/316-ridgewood-crescent
+"67 Breckenridge Crescent, London South, ON",London South,South Y,Townhouse,3.0,,9.43,469900,https://www.zolo.ca/london-south-real-estate/67-breckenridge-crescent
+"20-760 Berkshire Drive, London South, ON",London South,South N,Townhouse,2.0,75.0,5.63,340000,https://www.zolo.ca/london-south-real-estate/760-berkshire-drive/20
+"702-549 Ridout Street N, London East, ON",London East,East F,Condo,2.0,40.0,2.96,329000,https://www.zolo.ca/london-east-real-estate/549-ridout-street-north/702
+"199 Vancouver Street, London East, ON",London East,East H,House,4.0,75.0,7.59,639900,https://www.zolo.ca/london-east-real-estate/199-vancouver-street
+"1902-330 Ridout Street N, London East, ON",London East,East K,Condo,2.0,,3.67,499900,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/1902
+"159 Walmer Gardens, London North, ON",London North,North K,House,3.0,40.0,2.02,619900,https://www.zolo.ca/london-north-real-estate/159-walmer-gardens
+"1263 Sorrel Road, London East, ON",London East,East D,Townhouse,,,6.79,420000,https://www.zolo.ca/london-east-real-estate/1263-sorrel-road
+"9-1850 Beaverbrook Avenue, London North, ON",London North,North M,Townhouse,3.0,13.0,3.94,549900,https://www.zolo.ca/london-north-real-estate/1850-beaverbrook-avenue/9
+"245 Ensign Crescent, London South, ON",London South,South N,House,4.0,40.0,7.13,784900,https://www.zolo.ca/london-south-real-estate/245-ensign-crescent
+"814-480 Callaway Road, London North, ON",London North,North R,Condo,3.0,2.0,3.6,799000,https://www.zolo.ca/london-north-real-estate/480-callaway-road/814
+"272 Wilkins Street, London South, ON",London South,South R,House,3.0,40.0,7.39,699000,https://www.zolo.ca/london-south-real-estate/272-wilkins-street
+"7 Harrow Court, London South, ON",London South,South S,House,4.0,,9.04,689999,https://www.zolo.ca/london-south-real-estate/7-harrow-court
+"857 Catalpa Square, London North, ON",London North,North E,Townhouse,3.0,0.0,4.65,569999,https://www.zolo.ca/london-north-real-estate/857-catalpa-square
+"307-1975 Fountain Grass Drive, London South, ON",London South,South B,Condo,2.0,,9.23,599000,https://www.zolo.ca/london-south-real-estate/1975-fountain-grass-drive/307
+"23 Fox Mill Crescent, London South, ON",London South,South N,House,4.0,,6.77,655000,https://www.zolo.ca/london-south-real-estate/23-fox-mill-crescent
+"203-549 Ridout Street N, London East, ON",London East,East F,Condo,2.0,40.0,2.96,299900,https://www.zolo.ca/london-east-real-estate/549-ridout-street-north/203
+"211-460 Callaway Road, London North, ON",London North,North R,Condo,3.0,,3.65,899000,https://www.zolo.ca/london-north-real-estate/460-callaway-road/211
+"322 Mornington Avenue, London East, ON",London East,East G,House,3.0,100.0,4.13,374900,https://www.zolo.ca/london-east-real-estate/322-mornington-avenue
+"96-51 Sholto Drive, London South, ON",London South,South X,Townhouse,3.0,,10.06,449900,https://www.zolo.ca/london-south-real-estate/51-sholto-drive/96
+"6905 Heathwoods Avenue, London South, ON",London South,South V,Townhouse,3.0,0.0,10.87,594800,https://www.zolo.ca/london-south-real-estate/6905-heathwoods-avenue
+"4-2070 Meadowgate Boulevard, London South, ON",London South,South U,Townhouse,4.0,8.0,9.21,489900,https://www.zolo.ca/london-south-real-estate/2070-meadowgate-boulevard/4
+"226-230 Clarke Road, London East, ON",London East,East I,Townhouse,3.0,75.0,8.44,399000,https://www.zolo.ca/london-east-real-estate/230-clarke-road/226
+"55-70 Chapman Court, London North, ON",London North,North I,Townhouse,3.0,,2.97,399900,https://www.zolo.ca/london-north-real-estate/70-chapman-court/55
+"802-250 Pall Mall Street, London East, ON",London East,East F,Condo,2.0,,2.65,430500,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/802
+"705-330 Ridout Street N, London East, ON",London East,East K,Condo,2.0,,5.58,535000,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/705
+"103-570 Proudfoot Lane, London North, ON",London North,North N,Condo,2.0,,3.0,319000,https://www.zolo.ca/london-north-real-estate/570-proudfoot-lane/103
+"5-1924 Cedarhollow Boulevard, London North, ON",London North,North D,Townhouse,3.0,13.0,6.29,559900,https://www.zolo.ca/london-north-real-estate/1924-cedarhollow-boulevard/5
+"78 Langarth Street W, London South, ON",London South,South E,House,3.0,,4.99,479900,https://www.zolo.ca/london-south-real-estate/78-langarth-street-west
+"83 Bonaventure Drive, London East, ON",London East,East I,Townhouse,3.0,,9.79,484900,https://www.zolo.ca/london-east-real-estate/83-bonaventure-drive
+"64-40 Tiffany Drive, London East, ON",London East,East I,Townhouse,3.0,40.0,9.18,345000,https://www.zolo.ca/london-east-real-estate/40-tiffany-drive/64
+"704-600 Grenfell Drive, London North, ON",London North,North C,Condo,2.0,,3.53,279900,https://www.zolo.ca/london-north-real-estate/600-grenfell-drive/704
+"128-51 Sholto Drive, London South, ON",London South,South X,Townhouse,3.0,,10.06,399900,https://www.zolo.ca/london-south-real-estate/51-sholto-drive/128
+"102 Loggers Grove, London East, ON",London East,East P,House,4.0,23.0,9.87,699900,https://www.zolo.ca/london-east-real-estate/102-loggers-grove
+"309-693 Windermere Road, London North, ON",London North,North G,Condo,2.0,,2.07,464900,https://www.zolo.ca/london-north-real-estate/693-windermere-road/309
+"1762 Aldersbrook Road, London North, ON",London North,North F,Townhouse,3.0,40.0,3.88,470000,https://www.zolo.ca/london-north-real-estate/1762-aldersbrook-road
+"309-729 Deveron Crescent, London South, ON",London South,South T,Condo,1.0,40.0,8.39,239900,https://www.zolo.ca/london-south-real-estate/729-deveron-crescent/309
+"801-330 Ridout Street N, London East, ON",London East,East K,Condo,1.0,13.0,3.67,414900,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/801
+"106-1275 Bentley Drive, London, ON",London,East D,Condo,2.0,36.0,5.4,265000,https://www.zolo.ca/london-real-estate/1275-bentley-drive/106
+"135-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,2.0,40.0,9.09,258500,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/135
+"461 Cleveland Avenue, London South, ON",London South,South J,Townhouse,3.0,40.0,7.24,449900,https://www.zolo.ca/london-south-real-estate/461-cleveland-avenue
+"204 Burnside Drive, London East, ON",London East,East I,Townhouse,4.0,75.0,9.01,639000,https://www.zolo.ca/london-east-real-estate/204-burnside-drive
+"701-986 Huron Street, London East, ON",London East,East A,Condo,2.0,40.0,3.75,259000,https://www.zolo.ca/london-east-real-estate/986-huron-street/701
+"50-112 North Centre Road, London North, ON",London North,North B,Condo,3.0,13.0,2.2,299000,https://www.zolo.ca/london-north-real-estate/112-north-centre-road/50
+"26 Caprice Crescent, London East, ON",London East,East I,House,3.0,,9.05,489900,https://www.zolo.ca/london-east-real-estate/26-caprice-crescent
+"12-210 Carlyle Drive, London East, ON",London East,East I,Townhouse,3.0,40.0,9.13,319900,https://www.zolo.ca/london-east-real-estate/210-carlyle-drive/12
+"118-1330 Jalna Boulevard, London South, ON",London South,South X,Townhouse,3.0,40.0,9.92,285000,https://www.zolo.ca/london-south-real-estate/1330-jalna-boulevard/118
+"1207-858 Commissioners Road E, London South, ON",London South,South H,Condo,2.0,,7.15,289000,https://www.zolo.ca/london-south-real-estate/858-commissioners-road-east/1207
+"405-333 Commissioners Road W, London South, ON",London South,South D,Condo,2.0,40.0,5.91,274900,https://www.zolo.ca/london-south-real-estate/333-commissioners-road-west/405
+"114-1447 Huron Street, London East, ON",London East,East D,Condo,1.0,,5.66,267995,https://www.zolo.ca/london-east-real-estate/1447-huron-street/114
+"118-1200 Commissioners Road W, London South, ON",London South,South B,Condo,2.0,8.0,7.28,624900,https://www.zolo.ca/london-south-real-estate/1200-commissioners-road-west/118
+"62-801 Osgoode Drive, London South, ON",London South,South Y,Townhouse,4.0,,9.08,424988,https://www.zolo.ca/london-south-real-estate/801-osgoode-drive/62
+"904-544 Talbot Street, London East, ON",London East,East F,Condo,2.0,,2.94,468800,https://www.zolo.ca/london-east-real-estate/544-talbot-street/904
+"1107-1235 Richmond Street, London East, ON",London East,East B,Condo,2.0,,0.74,474900,https://www.zolo.ca/london-east-real-estate/1235-richmond-street/1107
+"4079 Campbell Street, London South, ON",London South,South V,House,4.0,2.0,10.59,949000,https://www.zolo.ca/london-south-real-estate/4079-campbell-street
+"202 Sydenham Street, London East, ON",London East,East B,Townhouse,6.0,100.0,2.12,650000,https://www.zolo.ca/london-east-real-estate/202-sydenham-street
+"71 Langarth Street W, London South, ON",London South,South E,House,4.0,2.0,5.05,734900,https://www.zolo.ca/london-south-real-estate/71-langarth-street-west
+"2-131 Bonaventure Drive, London East, ON",London East,East I,Townhouse,3.0,,9.6,379900,https://www.zolo.ca/london-east-real-estate/131-bonaventure-drive/2
+"951 Notre Dame Drive, London South, ON",London South,South O,Townhouse,3.0,75.0,7.56,319900,https://www.zolo.ca/london-south-real-estate/951-notre-dame-drive
+"95 Scotchmere Crescent, London South, ON",London South,South X,Townhouse,3.0,,9.8,469900,https://www.zolo.ca/london-south-real-estate/95-scotchmere-crescent
+"1287 Nicole Avenue, London North, ON",London North,North C,House,4.0,,4.81,729900,https://www.zolo.ca/london-north-real-estate/1287-nicole-avenue
+"340 Riverside Drive, London North, ON",London North,North N,House,4.0,,3.28,649900,https://www.zolo.ca/london-north-real-estate/340-riverside-drive
+"1105-155 Kent Street, London East, ON",London East,East F,Condo,2.0,40.0,3.04,294900,https://www.zolo.ca/london-east-real-estate/155-kent-street/1105
+"29 Julia Court, London East, ON",London East,East I,Townhouse,5.0,,9.25,560000,https://www.zolo.ca/london-east-real-estate/29-julia-court
+"813-240 Villagewalk Boulevard, London North, ON",London North,North R,Condo,2.0,13.0,3.39,479900,https://www.zolo.ca/london-north-real-estate/240-villagewalk-boulevard/813
+"1202-250 Pall Mall Street, London East, ON",London East,East F,Condo,2.0,23.0,2.65,499900,https://www.zolo.ca/london-east-real-estate/250-pall-mall-street/1202
+"264 Ridgewood Crescent, London South, ON",London South,South D,House,4.0,,4.78,699000,https://www.zolo.ca/london-south-real-estate/264-ridgewood-crescent
+"UPPER-31 Langarth Street W, London South, ON",London South,South E,Townhouse,2.0,,5.07,1595,https://www.zolo.ca/london-south-real-estate/31-langarth-street-west/upper
+"1515-45 Pond Mills Road, London South, ON",London South,South J,Condo,1.0,,6.94,279900,https://www.zolo.ca/london-south-real-estate/45-pond-mills-road/1515
+"879 Garibaldi Avenue, London North, ON",London North,North B,House,3.0,,3.86,729900,https://www.zolo.ca/london-north-real-estate/879-garibaldi-avenue
+"605-240 Villagewalk Boulevard, London North, ON",London North,North R,Condo,3.0,,3.39,735000,https://www.zolo.ca/london-north-real-estate/240-villagewalk-boulevard/605
+"3-410 Ambleside Drive, London North, ON",London North,North A,Townhouse,3.0,,2.49,589000,https://www.zolo.ca/london-north-real-estate/410-ambleside-drive/3
+"940 Oxford Street W, London North, ON",London North,North P,House,5.0,,4.55,1100000,https://www.zolo.ca/london-north-real-estate/940-oxford-street-west
+"1605-695 Richmond Street, London East, ON",London East,East F,Condo,2.0,,2.48,355000,https://www.zolo.ca/london-east-real-estate/695-richmond-street/1605
+"876 Eagletrace Drive, London North, ON",London North,North S,House,4.0,0.0,3.85,1480000,https://www.zolo.ca/london-north-real-estate/876-eagletrace-drive
+"405-440 Central Avenue, London East, ON",London East,East F,Condo,1.0,75.0,3.2,229999,https://www.zolo.ca/london-east-real-estate/440-central-avenue/405
+"27 Stirrup Court, London North, ON",London North,North J,House,3.0,40.0,1.39,849000,https://www.zolo.ca/london-north-real-estate/27-stirrup-court
+"1566 Nairn Avenue, London East, ON",London East,East D,Townhouse,4.0,75.0,6.84,469000,https://www.zolo.ca/london-east-real-estate/1566-nairn-avenue
+"827 Quebec Street, London East, ON",London East,East G,House,6.0,75.0,4.05,459900,https://www.zolo.ca/london-east-real-estate/827-quebec-street
+"5-417 Hyde Park Road, London North, ON",London North,North P,Townhouse,2.0,23.0,5.96,599900,https://www.zolo.ca/london-north-real-estate/417-hyde-park-road/5
+"12-1990 Wavell Street, London East, ON",London East,East I,Townhouse,3.0,,8.66,419900,https://www.zolo.ca/london-east-real-estate/1990-wavell-street/12
+"1102-19 King Street, London East, ON",London East,East K,Condo,2.0,,3.58,499900,https://www.zolo.ca/london-east-real-estate/19-king-street/1102
+"1166 Smither Road, London North, ON",London North,North I,House,5.0,10.0,3.88,839000,https://www.zolo.ca/london-north-real-estate/1166-smither-road
+"51 Ashbury Avenue, London South, ON",London South,South Y,House,4.0,,9.63,589900,https://www.zolo.ca/london-south-real-estate/51-ashbury-avenue
+"279 Stephen Street, London South, ON",London South,South B,House,3.0,75.0,7.71,799000,https://www.zolo.ca/london-south-real-estate/279-stephen-street
+"120 Champlain Crescent, London East, ON",London East,East I,House,3.0,,9.7,589900,https://www.zolo.ca/london-east-real-estate/120-champlain-crescent
+"59-550 Second Street, London East, ON",London East,East H,Townhouse,4.0,40.0,6.6,359000,https://www.zolo.ca/london-east-real-estate/550-second-street/59
+"839 Guildwood Boulevard, London North, ON",London North,North M,House,3.0,23.0,4.2,599000,https://www.zolo.ca/london-north-real-estate/839-guildwood-boulevard
+"90-1096 Jalna Boulevard, London South, ON",London South,South X,Condo,2.0,40.0,9.09,279900,https://www.zolo.ca/london-south-real-estate/1096-jalna-boulevard/90
+"315-1510 Richmond Street, London North, ON",London North,North G,Condo,2.0,40.0,1.14,399000,https://www.zolo.ca/london-north-real-estate/1510-richmond-street/315
+"126-3025 Singleton Avenue, London South, ON",London South,South W,Townhouse,3.0,8.0,7.87,549900,https://www.zolo.ca/london-south-real-estate/3025-singleton-avenue/126
+"4542 Avenue Road, London South, ON",London South,South ZZ,House,3.0,,12.54,899990,https://www.zolo.ca/london-south-real-estate/4542-avenue-road
+"487 Jeffreybrook Close, London North, ON",London North,North B,House,6.0,40.0,2.79,849900,https://www.zolo.ca/london-north-real-estate/487-jeffreybrook-close
+"37-1294 Byron Baseline Road, London South, ON",London South,South K,Townhouse,3.0,40.0,7.99,399000,https://www.zolo.ca/london-south-real-estate/1294-byron-baseline-road/37
+"301-460 Callaway Road, London North, ON",London North,North R,Condo,2.0,2.0,3.65,650000,https://www.zolo.ca/london-north-real-estate/460-callaway-road/301
+"8-590 Millbank Drive, London South, ON",London South,South Y,Townhouse,3.0,40.0,9.1,380000,https://www.zolo.ca/london-south-real-estate/590-millbank-drive/8
+"312-931 Wonderland Road S, London South, ON",London South,South M,Condo,1.0,75.0,7.55,219900,https://www.zolo.ca/london-south-real-estate/931-wonderland-road-south/312
+"60 Tilipe Road, London East, ON",London East,East D,Townhouse,4.0,,6.98,534900,https://www.zolo.ca/london-east-real-estate/60-tilipe-road
+"372 Manhattan Drive, London South, ON",London South,South K,House,4.0,,8.94,1599000,https://www.zolo.ca/london-south-real-estate/372-manhattan-drive
+"708-583 Mornington Avenue, London East, ON",London East,East G,Condo,2.0,75.0,5.11,214900,https://www.zolo.ca/london-east-real-estate/583-mornington-avenue/708
+"601-1510 Richmond Street N, London North, ON",London North,North G,Condo,4.0,40.0,1.14,675000,https://www.zolo.ca/london-north-real-estate/1510-richmond-street-north/601
+"27 Wharncliffe Road S, London South, ON",London South,South E,Townhouse,3.0,75.0,3.56,529900,https://www.zolo.ca/london-south-real-estate/27-wharncliffe-road-south
+"116-1775 Culver Drive, London East, ON",London East,East H,Townhouse,3.0,,7.41,315000,https://www.zolo.ca/london-east-real-estate/1775-culver-drive/116
+"2701-505 Talbot Street, London East, ON",London East,East F,Condo,3.0,,3.06,1100000,https://www.zolo.ca/london-east-real-estate/505-talbot-street/2701
+"616 Wilkins Street, London South, ON",London South,South R,Townhouse,2.0,75.0,7.15,359900,https://www.zolo.ca/london-south-real-estate/616-wilkins-street
+"713-240 Villagewalk Boulevard, London North, ON",London North,North R,Condo,2.0,13.0,3.39,524900,https://www.zolo.ca/london-north-real-estate/240-villagewalk-boulevard/713
+"1627 Mardell Street, London East, ON",London East,East H,House,2.0,,6.28,549900,https://www.zolo.ca/london-east-real-estate/1627-mardell-street
+"631 Elias Street, London East, ON",London East,East G,Townhouse,3.0,100.0,3.72,499999,https://www.zolo.ca/london-east-real-estate/631-elias-street
+"602-1030 Coronation Drive, London North, ON",London North,North I,Condo,2.0,23.0,4.63,419900,https://www.zolo.ca/london-north-real-estate/1030-coronation-drive/602
+"1316 Twilite Boulevard, London North, ON",London North,North S,House,3.0,10.0,5.1,829900,https://www.zolo.ca/london-north-real-estate/1316-twilite-boulevard
+"26-624 William Street, London East, ON",London East,East F,Townhouse,3.0,23.0,3.38,474900,https://www.zolo.ca/london-east-real-estate/624-william-street/26
+"305-162 Wortley Road, London South, ON",London South,South F,Condo,2.0,13.0,4.48,799900,https://www.zolo.ca/london-south-real-estate/162-wortley-road/305
+"1292 Sorrel Road, London East, ON",London East,East E,Townhouse,4.0,,6.9,418900,https://www.zolo.ca/london-east-real-estate/1292-sorrel-road
+"1901-389 Dundas Street, London East, ON",London East,East K,Condo,3.0,40.0,3.79,250000,https://www.zolo.ca/london-east-real-estate/389-dundas-street/1901
+"124-3320 Meadowgate Boulevard, London South, ON",London South,South U,Townhouse,2.0,,10.46,395000,https://www.zolo.ca/london-south-real-estate/3320-meadowgate-boulevard/124
+"1948 Royal Crescent, London East, ON",London East,East I,House,4.0,,8.5,479900,https://www.zolo.ca/london-east-real-estate/1948-royal-crescent
+"600 Wonderland Road S, London South, ON",London South,South N,Townhouse,3.0,75.0,6.41,329900,https://www.zolo.ca/london-south-real-estate/600-wonderland-road-south
+"59-1010 Fanshawe Park Road E, London North, ON",London North,North C,Townhouse,3.0,13.0,4.38,559900,https://www.zolo.ca/london-north-real-estate/1010-fanshawe-park-road-east/59
+"289 Winnipeg Boulevard, London East, ON",London East,East H,House,2.0,75.0,7.44,449900,https://www.zolo.ca/london-east-real-estate/289-winnipeg-boulevard
+"606 Central Avenue, London East, ON",London East,East F,House,4.0,100.0,3.52,589900,https://www.zolo.ca/london-east-real-estate/606-central-avenue
+"272 Elgin Street, London East, ON",London East,East M,House,3.0,75.0,6.72,419900,https://www.zolo.ca/london-east-real-estate/272-elgin-street
+"9-703 Windermere Road, London North, ON",London North,North G,Townhouse,4.0,40.0,2.12,509000,https://www.zolo.ca/london-north-real-estate/703-windermere-road/9
+"758 Banyan Lane, London North, ON",London North,North E,Townhouse,3.0,0.0,4.49,534900,https://www.zolo.ca/london-north-real-estate/758-banyan-lane
+"30-3361 David Milne Way, London South, ON",London South,South W,Townhouse,3.0,0.0,8.64,498230,https://www.zolo.ca/london-south-real-estate/3361-david-milne-way/30
+"6-140 Conway Drive, London South, ON",London South,South X,Condo,1.0,,8.93,244900,https://www.zolo.ca/london-south-real-estate/140-conway-drive/6
+"1213 Smither Road, London North, ON",London North,North I,House,3.0,,4.0,799900,https://www.zolo.ca/london-north-real-estate/1213-smither-road
+"303-733 Deveron Crescent, London South, ON",London South,South T,Condo,3.0,40.0,8.22,349900,https://www.zolo.ca/london-south-real-estate/733-deveron-crescent/303
+"113-1680 Evans Boulevard, London South, ON",London South,South U,Townhouse,3.0,0.0,9.09,400126,https://www.zolo.ca/london-south-real-estate/1680-evans-boulevard/113
+"17-340 Ambleside Drive, London North, ON",London North,North A,Townhouse,3.0,40.0,2.41,499900,https://www.zolo.ca/london-north-real-estate/340-ambleside-drive/17
+"912-570 Proudfoot Lane, London North, ON",London North,North N,Condo,1.0,,3.0,289900,https://www.zolo.ca/london-north-real-estate/570-proudfoot-lane/912
+"34-40 Arbour Glen Crescent, London East, ON",London East,East A,Townhouse,2.0,,3.35,239000,https://www.zolo.ca/london-east-real-estate/40-arbour-glen-crescent/34
+"53 Madeira Drive, London East, ON",London East,East D,House,5.0,,6.58,449000,https://www.zolo.ca/london-east-real-estate/53-madeira-drive
+"207-1830 Dumont Street, London East, ON",London East,East H,Condo,2.0,75.0,7.8,224900,https://www.zolo.ca/london-east-real-estate/1830-dumont-street/207
+"405-77 Baseline Road, London South, ON",London South,South E,Condo,1.0,40.0,5.73,219900,https://www.zolo.ca/london-south-real-estate/77-baseline-road/405
+"925 Maitland Street, London East, ON",London East,East B,House,3.0,,2.34,529900,https://www.zolo.ca/london-east-real-estate/925-maitland-street
+"1127 Trafalgar Street, London East, ON",London East,East M,House,3.0,75.0,6.27,349900,https://www.zolo.ca/london-east-real-estate/1127-trafalgar-street
+"322 Fleming Drive, London East, ON",London East,East D,House,5.0,,6.41,519000,https://www.zolo.ca/london-east-real-estate/322-fleming-drive
+"872 Stedwell Street, London East, ON",London East,East L,House,3.0,100.0,5.51,499900,https://www.zolo.ca/london-east-real-estate/872-stedwell-street
+"706-76 Baseline Road W, London South, ON",London South,South E,Condo,1.0,,5.58,229900,https://www.zolo.ca/london-south-real-estate/76-baseline-road-west/706
+"1218 Baird Street, London North, ON",London North,North M,House,4.0,10.0,3.78,739900,https://www.zolo.ca/london-north-real-estate/1218-baird-street
+"4-2605 Kettering Place, London South, ON",London South,South U,Townhouse,3.0,0.0,11.2,499900,https://www.zolo.ca/london-south-real-estate/2605-kettering-place/4
+"604-583 Mornington Avenue, London East, ON",London East,East G,Condo,2.0,,5.11,234900,https://www.zolo.ca/london-east-real-estate/583-mornington-avenue/604
+"3601 Lynds Street, London South, ON",London South,South W,House,4.0,2.0,9.12,799777,https://www.zolo.ca/london-south-real-estate/3601-lynds-street
+"112-275 Callaway Road, London North, ON",London North,North R,Townhouse,4.0,8.0,3.58,629000,https://www.zolo.ca/london-north-real-estate/275-callaway-road/112
+"3 Johnston Street, London South, ON",London South,South E,House,3.0,,3.82,514900,https://www.zolo.ca/london-south-real-estate/3-johnston-street
+"495 Jeffreybrook Close, London North, ON",London North,North B,House,5.0,40.0,2.76,775000,https://www.zolo.ca/london-north-real-estate/495-jeffreybrook-close
+"866 William Street, London East, ON",London East,East B,House,3.0,100.0,2.8,649900,https://www.zolo.ca/london-east-real-estate/866-william-street
+"603-260 Villagewalk Boulevard, London North, ON",London North,North R,Condo,2.0,,3.41,729900,https://www.zolo.ca/london-north-real-estate/260-villagewalk-boulevard/603
+"608-1600 Adelaide Street N, London North, ON",London North,North C,Condo,1.0,,3.64,275000,https://www.zolo.ca/london-north-real-estate/1600-adelaide-street-north/608
+"1403-860 Commissioners Road E, London South, ON",London South,South H,Condo,2.0,40.0,7.19,299900,https://www.zolo.ca/london-south-real-estate/860-commissioners-road-east/1403
+"28 Beattie Avenue, London East, ON",London East,East N,Townhouse,4.0,75.0,6.19,539900,https://www.zolo.ca/london-east-real-estate/28-beattie-avenue
+"1007-1235 Richmond Street, London, ON",London,East C,Condo,2.0,,0.75,485900,https://www.zolo.ca/london-real-estate/1235-richmond-street/1007
+"10-215 Commissioners Road W, London South, ON",London South,South D,Townhouse,3.0,,5.83,349900,https://www.zolo.ca/london-south-real-estate/215-commissioners-road-west/10
+"302-1106 Jalna Boulevard, London South, ON",London South,South X,Condo,2.0,75.0,9.33,199900,https://www.zolo.ca/london-south-real-estate/1106-jalna-boulevard/302
+"404-1975 Fountain Grass Drive, London South, ON",London South,South B,Condo,2.0,2.0,9.22,699000,https://www.zolo.ca/london-south-real-estate/1975-fountain-grass-drive/404
+"954 West Village Square, London North, ON",London North,North M,Townhouse,4.0,8.0,4.23,549900,https://www.zolo.ca/london-north-real-estate/954-west-village-square
+"243 Tecumseh Avenue E, London South, ON",London South,South F,Townhouse,5.0,100.0,4.98,698000,https://www.zolo.ca/london-south-real-estate/243-tecumseh-avenue-east
+"100-690 Little Grey Street, London East, ON",London East,East L,Townhouse,3.0,40.0,4.81,310000,https://www.zolo.ca/london-east-real-estate/690-little-grey-street/100
+"46-43 Capulet Walk, London North, ON",London North,North M,Townhouse,3.0,,3.52,549900,https://www.zolo.ca/london-north-real-estate/43-capulet-walk/46
+"68-1100 Byron Baseline Road W, London South, ON",London South,South K,Townhouse,3.0,,7.42,510000,https://www.zolo.ca/london-south-real-estate/1100-byron-baseline-road-west/68
+"403-135 Baseline Road W, London South, ON",London South,South D,Condo,2.0,40.0,5.75,269900,https://www.zolo.ca/london-south-real-estate/135-baseline-road-west/403
+"85-2700 Buroak Drive, London North, ON",London North,North S,Townhouse,4.0,,5.02,599000,https://www.zolo.ca/london-north-real-estate/2700-buroak-drive/85
+"1406-695 Richmond Street, London East, ON",London East,East F,Condo,3.0,,2.48,357900,https://www.zolo.ca/london-east-real-estate/695-richmond-street/1406
+"505-626 First Street, London East, ON",London East,East H,Condo,4.0,,6.1,349000,https://www.zolo.ca/london-east-real-estate/626-first-street/505
+"32-159 Sandringham Crescent, London South, ON",London South,South R,Townhouse,3.0,,7.64,324900,https://www.zolo.ca/london-south-real-estate/159-sandringham-crescent/32
+"12-1855 Aldersbrook Road, London North, ON",London North,North F,Townhouse,3.0,,3.71,424900,https://www.zolo.ca/london-north-real-estate/1855-aldersbrook-road/12
+"34-810 Maitland Street, London East, ON",London East,East B,Townhouse,2.0,40.0,2.75,499900,https://www.zolo.ca/london-east-real-estate/810-maitland-street/34
+"26-195 Barker Street, London East, ON",London East,East C,Townhouse,3.0,23.0,3.6,459900,https://www.zolo.ca/london-east-real-estate/195-barker-street/26
+"2 Havenwood Way, London North, ON",London North,North O,House,5.0,23.0,6.32,1329000,https://www.zolo.ca/london-north-real-estate/2-havenwood-way
+"1418 Helena Montague Avenue, London South, ON",London South,South B,House,4.0,,7.87,794900,https://www.zolo.ca/london-south-real-estate/1418-helena-montague-avenue
+"4-135 Belmont Drive, London South, ON",London South,South O,Townhouse,3.0,40.0,6.92,379900,https://www.zolo.ca/london-south-real-estate/135-belmont-drive/4
+"303-650 Cheapside Street, London East, ON",London East,East C,Condo,2.0,,2.88,234900,https://www.zolo.ca/london-east-real-estate/650-cheapside-street/303
+"1766 Culver Drive, London East, ON",London East,East H,Townhouse,3.0,,7.38,399000,https://www.zolo.ca/london-east-real-estate/1766-culver-drive
+"18-518 Blue Jay Drive, London North, ON",London North,North B,Townhouse,3.0,,3.61,749900,https://www.zolo.ca/london-north-real-estate/518-blue-jay-drive/18
+"24-464 Commissioners Road W, London South, ON",London South,South N,Townhouse,3.0,23.0,6.21,569900,https://www.zolo.ca/london-south-real-estate/464-commissioners-road-west/24
+"377 Griffith Street, London South, ON",London South,South B,House,4.0,,8.25,609999,https://www.zolo.ca/london-south-real-estate/377-griffith-street
+"166 Ashland Avenue, London East, ON",London East,East M,House,4.0,75.0,6.09,447900,https://www.zolo.ca/london-east-real-estate/166-ashland-avenue
+"406-1705 Fiddlehead Place, London North, ON",London North,North R,Condo,2.0,,2.12,1099000,https://www.zolo.ca/london-north-real-estate/1705-fiddlehead-place/406
+"5 Henry Street, London East, ON",London East,East K,House,2.0,,4.23,329900,https://www.zolo.ca/london-east-real-estate/5-henry-street
+"206-45 Pond Mills Road, London South, ON",London South,South J,Condo,2.0,40.0,6.94,309500,https://www.zolo.ca/london-south-real-estate/45-pond-mills-road/206
+"709-505 Talbot Street, London East, ON",London East,East F,Condo,3.0,,3.06,599900,https://www.zolo.ca/london-east-real-estate/505-talbot-street/709
+"14 Duncan Crescent, London East, ON",London East,East D,House,4.0,,6.11,699900,https://www.zolo.ca/london-east-real-estate/14-duncan-crescent
+"701-389 Dundas Street, London East, ON",London East,East K,Condo,3.0,40.0,3.78,295000,https://www.zolo.ca/london-east-real-estate/389-dundas-street/701
+"1236 Emma Chase, London North, ON",London North,North I,House,4.0,,4.66,835000,https://www.zolo.ca/london-north-real-estate/1236-emma-chase
+"873 Southdale Road E, London South, ON",London South,South Y,Townhouse,3.0,,9.06,334900,https://www.zolo.ca/london-south-real-estate/873-southdale-road-east
+"1890 Kilgorman Way, London South, ON",London South,South B,House,5.0,0.0,10.24,2620000,https://www.zolo.ca/london-south-real-estate/1890-kilgorman-way
+"510-460 Callaway Road, London North, ON",London North,North R,Condo,2.0,2.0,3.65,549000,https://www.zolo.ca/london-north-real-estate/460-callaway-road/510
+"1-280 Queens Avenue, London East, ON",London East,East F,Townhouse,2.0,100.0,3.44,386800,https://www.zolo.ca/london-east-real-estate/280-queens-avenue/1
+"109-1030 Coronation Drive, London North, ON",London North,North I,Condo,2.0,13.0,4.63,429900,https://www.zolo.ca/london-north-real-estate/1030-coronation-drive/109
+"808-583 Mornington Ave Avenue, London East, ON",London East,East G,Condo,2.0,,5.11,264900,https://www.zolo.ca/london-east-real-estate/583-mornington-ave-avenue/808
+"501-353 Commissioners Road W, London South, ON",London South,South D,Condo,1.0,23.0,5.93,314999,https://www.zolo.ca/london-south-real-estate/353-commissioners-road-west/501
+"323 Clarke Road, London East, ON",London East,East H,House,3.0,75.0,8.14,599000,https://www.zolo.ca/london-east-real-estate/323-clarke-road
+"16-433 Hyde Park Road, London North, ON",London North,North P,Townhouse,3.0,13.0,5.92,529900,https://www.zolo.ca/london-north-real-estate/433-hyde-park-road/16
+"810-573 Mornington Avenue, London East, ON",London East,East G,Condo,2.0,,5.18,235000,https://www.zolo.ca/london-east-real-estate/573-mornington-avenue/810
+"4255 Liberty Crossing, London South, ON",London South,South V,House,3.0,0.0,10.75,699000,https://www.zolo.ca/london-south-real-estate/4255-liberty-crossing
+"368 Wharncliffe Road S, London South, ON",London South,South F,Townhouse,2.0,,5.11,579900,https://www.zolo.ca/london-south-real-estate/368-wharncliffe-road-south
+"40-311 Vesta Road, London East, ON",London East,East A,Townhouse,3.0,40.0,4.36,336900,https://www.zolo.ca/london-east-real-estate/311-vesta-road/40
+"3-352 Ridout Street S, London South, ON",London South,South G,Townhouse,2.0,13.0,5.74,700000,https://www.zolo.ca/london-south-real-estate/352-ridout-street-south/3
+"2168 Ironwood Road, London South, ON",London South,South K,House,5.0,,9.47,1389000,https://www.zolo.ca/london-south-real-estate/2168-ironwood-road
+"58-490 Third Street, London East, ON",London East,East H,Townhouse,3.0,,7.1,309000,https://www.zolo.ca/london-east-real-estate/490-third-street/58
+"136 Mendip Crescent, London South, ON",London South,South Y,House,4.0,,9.05,539900,https://www.zolo.ca/london-south-real-estate/136-mendip-crescent
+"904-1103 Jalna Boulevard, London South, ON",London South,South X,Condo,1.0,40.0,9.22,219900,https://www.zolo.ca/london-south-real-estate/1103-jalna-boulevard/904
+"22-760 Berkshire Drive, London South, ON",London South,South N,Townhouse,3.0,,5.63,409900,https://www.zolo.ca/london-south-real-estate/760-berkshire-drive/22
+"40-1500 Richmond Street, London North, ON",London North,North G,Townhouse,5.0,40.0,1.05,579000,https://www.zolo.ca/london-north-real-estate/1500-richmond-street/40
+"764 Banyan Lane, London North, ON",London North,North E,Townhouse,3.0,0.0,4.5,529900,https://www.zolo.ca/london-north-real-estate/764-banyan-lane
+"108-1 Jacksway Crescent, London North, ON",London North,North G,Condo,2.0,23.0,1.51,274000,https://www.zolo.ca/london-north-real-estate/1-jacksway-crescent/108
+"604 Talltree Crescent, London East, ON",London East,East I,House,4.0,23.0,9.68,569900,https://www.zolo.ca/london-east-real-estate/604-talltree-crescent
+"36-1375 Whetherfield Street, London North, ON",London North,North M,Townhouse,3.0,,3.79,525000,https://www.zolo.ca/london-north-real-estate/1375-whetherfield-street/36
+"1111-695 Richmond Street, London East, ON",London East,East F,Condo,2.0,,2.48,339000,https://www.zolo.ca/london-east-real-estate/695-richmond-street/1111
+"1272 Savannah Drive, London North, ON",London North,North C,Townhouse,3.0,,5.05,474999,https://www.zolo.ca/london-north-real-estate/1272-savannah-drive
+"376 Burwell Street, London East, ON",London East,East G,Townhouse,11.0,,3.93,999900,https://www.zolo.ca/london-east-real-estate/376-burwell-street
+"52 Emery Street E, London South, ON",London South,South F,House,3.0,100.0,5.19,669900,https://www.zolo.ca/london-south-real-estate/52-emery-street-east
+"1011-573 Mornington Avenue, London East, ON",London East,East G,Condo,1.0,40.0,5.18,179900,https://www.zolo.ca/london-east-real-estate/573-mornington-avenue/1011
+"23 Barrett Crescent, London South, ON",London South,South Y,House,3.0,,9.65,599100,https://www.zolo.ca/london-south-real-estate/23-barrett-crescent
+"304-1100 Jalna Boulevard, London, ON",London,South X,Condo,1.0,48.0,9.21,219900,https://www.zolo.ca/london-real-estate/1100-jalna-boulevard/304
+"31-135 Belmont Drive, London South, ON",London South,South O,Townhouse,3.0,40.0,6.92,314900,https://www.zolo.ca/london-south-real-estate/135-belmont-drive/31
+"306-135 Base Line Road W, London South, ON",London South,South E,Condo,1.0,,5.76,249900,https://www.zolo.ca/london-south-real-estate/135-base-line-road-west/306
+"17-1337 Commissioners Road W, London South, ON",London South,South B,Townhouse,3.0,23.0,7.39,499900,https://www.zolo.ca/london-south-real-estate/1337-commissioners-road-west/17
+"803-860 Commissioners Road E, London South, ON",London South,South H,Condo,2.0,40.0,7.19,269900,https://www.zolo.ca/london-south-real-estate/860-commissioners-road-east/803
+"308-460 Wellington Street, London East, ON",London East,East F,Condo,2.0,100.0,3.41,299900,https://www.zolo.ca/london-east-real-estate/460-wellington-street/308
+"1975 Upperpoint Gate, London South, ON",London South,South B,Townhouse,4.0,2.0,9.09,724900,https://www.zolo.ca/london-south-real-estate/1975-upperpoint-gate
+"909-95 Base Line Road W, London South, ON",London South,South E,Condo,2.0,,5.75,299900,https://www.zolo.ca/london-south-real-estate/95-base-line-road-west/909
+"7-1548 Richmond Street, London North, ON",London North,North G,Townhouse,4.0,40.0,1.08,549900,https://www.zolo.ca/london-north-real-estate/1548-richmond-street/7
+"647 Piccadilly Street, London East, ON",London East,East G,House,2.0,75.0,3.32,519900,https://www.zolo.ca/london-east-real-estate/647-piccadilly-street
+"1005-330 Ridout Street N, London East, ON",London East,East K,Condo,1.0,,3.67,399888,https://www.zolo.ca/london-east-real-estate/330-ridout-street-north/1005
+"129 Giles Street, London East, ON",London East,East M,House,3.0,100.0,7.17,499999,https://www.zolo.ca/london-east-real-estate/129-giles-street
+"376 Richmond Street, London East, ON",London East,East K,Townhouse,23.0,,3.58,6600000,https://www.zolo.ca/london-east-real-estate/376-richmond-street
+"1367 Reardon Boulevard, London South, ON",London South,South U,Townhouse,4.0,,9.42,564900,https://www.zolo.ca/london-south-real-estate/1367-reardon-boulevard
+"14-152 Albert Street, London East, ON",London East,East F,Townhouse,2.0,,2.84,629900,https://www.zolo.ca/london-east-real-estate/152-albert-street/14
+"2751 Oriole Drive, London South, ON",London South,South U,House,4.0,,11.5,649999,https://www.zolo.ca/london-south-real-estate/2751-oriole-drive
+"860 Trafalgar Street, London East, ON",London East,East L,Townhouse,3.0,,5.67,499999,https://www.zolo.ca/london-east-real-estate/860-trafalgar-street
+"704-363 Colborne Street, London East, ON",London East,East K,Condo,2.0,40.0,3.92,274900,https://www.zolo.ca/london-east-real-estate/363-colborne-street/704
+"226 Grand Avenue, London South, ON",London South,South H,House,2.0,,5.01,389900,https://www.zolo.ca/london-south-real-estate/226-grand-avenue
+"1001 Oxford Street E, London East, ON",London East,East G,Townhouse,2.0,,4.21,409000,https://www.zolo.ca/london-east-real-estate/1001-oxford-street-east
+"401-75 Huxley Street, London South, ON",London South,South E,Condo,2.0,,5.83,284900,https://www.zolo.ca/london-south-real-estate/75-huxley-street/401
+"2-669 Osgoode Drive, London South, ON",London South,South Y,Townhouse,4.0,75.0,9.06,399900,https://www.zolo.ca/london-south-real-estate/669-osgoode-drive/2
+"52-136 Conway Drive, London South, ON",London South,South X,Condo,1.0,40.0,8.95,216500,https://www.zolo.ca/london-south-real-estate/136-conway-drive/52
