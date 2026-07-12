@@ -52,7 +52,7 @@ print('\n=== 模型績效 ===')
 print(f'R平方：{r2_score(y, pred):.4f}')
 print(f'截距（基準組log價格）：{model.intercept_:.4f}')
 print('各特徵係數（log價格差異）：')
-for name, coef in zip(X.columns, model.coef_):
+for name, coef in zip(Coded_Char.columns, model.coef_):
     print(f'  {name}：{coef:+.4f}（換算倍數：{np.exp(coef):.2f}倍）')
 
 # ── OLS回歸（statsmodels版本，用於統計顯著性檢定）─────────────────────────────
