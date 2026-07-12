@@ -17,14 +17,13 @@ data = pd.read_csv(DATA_PATH)
 data['log_price'] = np.log(data['price'])
 
 # ------ Define the Disctionary of House Price Factors -----------------------
-factors = {
-    'district': 'district',
-    'property_type': 'property_type',
-    'bedrooms': 'bedrooms',
-    'property_type': 'property_type',
-    'house_age_years': 'house_age_years',
-    'distance_to_western_km': 'distance_to_western_km'
-}
+factors = [
+    'district',
+    'property_type',
+    'bedrooms',
+    'property_type',
+    'house_age_years',
+    'distance_to_western_km']
 
 # ── 基本統計：分組敘述統計 ────────────────────────────────────────────────────
 def basic_statistical_analysis(factor: string) -> pd.DataFrame:
