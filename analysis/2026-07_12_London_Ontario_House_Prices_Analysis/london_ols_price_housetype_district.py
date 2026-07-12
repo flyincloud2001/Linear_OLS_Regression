@@ -17,6 +17,9 @@ data = pd.read_csv(DATA_PATH)
 data['log_price'] = np.log(data['price'])
 
 # ------ Define the Disctionary of House Price Factors -----------------------
+district,neighbourhood,
+property_type,bedrooms,house_age_years,
+distance_to_western_km,price,listing_url
 
 factors = {
     ""
