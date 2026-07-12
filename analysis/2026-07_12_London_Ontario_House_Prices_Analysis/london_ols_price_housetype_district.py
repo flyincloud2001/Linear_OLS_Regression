@@ -24,7 +24,7 @@ distance_to_western_km,
 price
 
 factors = {
-    ""
+    "district,neighbourhood": 
 }
 # ── 基本統計：分組敘述統計 ────────────────────────────────────────────────────
 print('=== 各區房價敘述統計 ===')
