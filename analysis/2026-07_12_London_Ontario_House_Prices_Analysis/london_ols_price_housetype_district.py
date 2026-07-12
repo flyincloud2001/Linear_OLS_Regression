@@ -37,11 +37,11 @@ def basic_statistical_analysis(data: pd.DataFrame, factor: str) -> pd.DataFrame:
 # ── One Hot Encoding：將類別變數轉為數值虛擬變數 ──────────────────────────────
 # drop_first=True：避免虛擬變數陷阱（dummy variable trap），
 # 被丟掉的類別會變成基準組，其餘係數代表相對基準組的差異
-X = pd.get_dummies(data[['district', 'property_type']], drop_first=True, dtype=int)
+Coded_Char = pd.get_dummies(data[['district', 'property_type']], drop_first=True, dtype=int)
 y = data['log_price']
 
 print('\n=== 編碼後特徵欄位（基準組已省略）===')
-print(X.columns.tolist())
+print(Coded_Char.columns.tolist())
 
 # ── OLS回歸（sklearn版本，用於預測與R平方）────────────────────────────────────
 model = LinearRegression()
