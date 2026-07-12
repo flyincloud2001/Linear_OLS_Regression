@@ -16,6 +16,7 @@ data = pd.read_csv(DATA_PATH)
 # 這點和股價一樣，log轉換是為了讓變數更適合線性模型
 data['log_price'] = np.log(data['price'])
 
+# ------
 # ── 基本統計：分組敘述統計 ────────────────────────────────────────────────────
 print('=== 各區房價敘述統計 ===')
 print(data.groupby('district')['price'].agg(['count', 'mean', 'median', 'std']).round(0))
