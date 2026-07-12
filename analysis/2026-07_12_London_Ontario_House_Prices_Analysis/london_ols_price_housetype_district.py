@@ -28,6 +28,8 @@ factors = {
     'district': 'district',
     'property_type': 'property_type',
     'bedrooms': 'bedrooms',
+    'property_type': 'property_type',
+    'house_age_years': 'house_age_years',
     
 
 }
